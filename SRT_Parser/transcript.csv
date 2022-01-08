@@ -1,0 +1,78 @@
+Text,Start Time,Duration
+"When we are in a stationary car that moves rapidly to gain speed,",4.54,3.9
+we get pushed back against our seat.,8.68,2.02
+"And when brakes are applied, we get pushed ahead.",11.0,3.48
+"Or when we take a sharp right turn, we are pushed towards the left.",14.76,3.78
+These are all situations where we are Accelerating!,18.74,3.74
+"We have all experienced this whether in a car,",22.6,2.68
+"or a bus, or while riding a motorbike.",25.44,2.84
+"Simply put, when velocity changes, we have acceleration.",28.64,4.78
+I still haven't defined what acceleration is.,33.66,2.88
+"I just told you that when velocity changes, there will be acceleration.",36.72,5.32
+"Okay, let me give you two examples.",42.32,2.76
+"In the first one,",45.18,0.86
+a car is traveling in a straight line at a constant speed of 80 kilometers an hour.,46.34,5.04
+"And in the second one,",51.48,1.16
+a plane is traveling in a straight line at a constant speed,52.94,3.02
+"of 1,000 kilometers an hour.",55.96,2.42
+In which case do you think Acceleration is involved?,58.68,4.36
+"None! In both cases, the velocity is not changing at all.",67.16,4.9
+"Hence, there will be no acceleration in either of the cases!",72.18,3.96
+Most people relate acceleration to high speed !,76.28,3.24
+And that's clearly not true!,79.76,2.0
+Acceleration will only exist when there is change in velocity.,82.04,4.16
+Do you remember what velocity is ?,86.5,2.62
+Its speed with direction and its hence of vector quantity!,89.42,4.4
+Why is this important?,94.06,2.0
+Let's say a body moves from rest and,96.06,1.7
+reaches a velocity of 20 kilometers an hour in five seconds.,97.88,4.3
+Will acceleration be involved here?,102.42,2.86
+"Yes, because the velocity is changing. It was zero initially,",105.5,4.7
+and at the end of five seconds it's 20 kilometers per hour.,110.56,3.68
+"In another scenario,",114.5,1.47
+"assume that a body is moving at 30 kilometers an hour,",115.97,2.99
+and then it moves right at 30 kilometers an hour,119.16,3.32
+and continues traveling at the same speed of 30 kilometers per hour.,122.66,4.42
+Will there be acceleration in this case?,127.3,3.28
+The answer is yes !,135.32,1.32
+"As the direction is changing,",136.98,1.86
+the velocity will also change.,139.18,2.0
+The only thing constant in this example is speed.,141.42,3.38
+But the velocity changes as the direction changes!,145.02,3.8
+So this was the most important concept you had to know about acceleration.,148.82,4.36
+It will exist only when there is a change in velocity!,153.32,3.52
+But how is acceleration calculated?,157.22,3.12
+Acceleration is defined as the rate of change of velocity.,160.66,4.42
+"In terms of a formula,",165.42,1.36
+Acceleration can be written as 'change in velocity',166.84,2.72
+'over the time taken'. If the velocity of an object changes,169.6,4.08
+"from an initial value of U to the final value of V, in time t, then the acceleration",173.9,6.76
+"""a"" can be written as 'V minus U' over t.",180.72,3.96
+"Said this object is at rest initially at point ""a"".",184.98,3.64
+It then travels to the right and attains the velocity of,188.88,3.38
+'10 meters per second' in five seconds.,192.26,2.72
+What will be the acceleration here at point B?,195.32,3.12
+We can look at the formula to get the answer!,198.44,3.3
+The initial velocity U is zero meters per second as the object is stationary.,202.0,5.32
+The final Velocity V is 10 meters per second.,207.66,2.98
+And the time taken t is 5 seconds.,211.08,2.66
+Hence the acceleration a will equal '10 meters per second' minus,213.98,3.98
+"'zero meters per second', divided by 5 seconds.",218.26,3.3
+So this will equal 10 meters per second divided by 5 seconds.,221.82,4.16
+'10 divided by 5' is 2.,226.3,2.16
+Wait.. hold on..,228.72,1.92
+What will be the units of acceleration?,230.64,2.92
+We should get a hint by looking at this.,233.82,1.82
+The units of acceleration will be,236.04,2.0
+'meters per second' per second.,238.32,2.78
+Because it's the change in velocity over the time taken!,241.36,3.68
+"As this is meters per second,",245.3,2.0
+we can carry this second to the denominator,247.3,2.16
+and what we will get is 'meters per second squared.',249.46,3.74
+"This one is more intuitive, but this one is a bit neater I would say.",253.48,4.48
+So the acceleration in this case will be '2 meters per second squared'.,258.22,5.32
+And acceleration is also a vector quantity!,263.54,2.8
+"Here,",266.66,1.02
+Acceleration and Velocity are in the same direction!,267.68,3.88
+There are many more important concepts,271.98,1.54
+"about acceleration, which we will cover in the coming videos.",273.6,4.3

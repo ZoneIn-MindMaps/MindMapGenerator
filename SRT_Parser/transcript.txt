@@ -1,0 +1,77 @@
+Text When we are in a stationary car that moves rapidly to gain speed, Start Time 4.54 Duration 3.9
+Text we get pushed back against our seat. Start Time 8.68 Duration 2.02
+Text And when brakes are applied, we get pushed ahead. Start Time 11.0 Duration 3.48
+Text Or when we take a sharp right turn, we are pushed towards the left. Start Time 14.76 Duration 3.78
+Text These are all situations where we are Accelerating! Start Time 18.74 Duration 3.74
+Text We have all experienced this whether in a car, Start Time 22.6 Duration 2.68
+Text or a bus, or while riding a motorbike. Start Time 25.44 Duration 2.84
+Text Simply put, when velocity changes, we have acceleration. Start Time 28.64 Duration 4.78
+Text I still haven't defined what acceleration is. Start Time 33.66 Duration 2.88
+Text I just told you that when velocity changes, there will be acceleration. Start Time 36.72 Duration 5.32
+Text Okay, let me give you two examples. Start Time 42.32 Duration 2.76
+Text In the first one, Start Time 45.18 Duration 0.86
+Text a car is traveling in a straight line at a constant speed of 80 kilometers an hour. Start Time 46.34 Duration 5.04
+Text And in the second one, Start Time 51.48 Duration 1.16
+Text a plane is traveling in a straight line at a constant speed Start Time 52.94 Duration 3.02
+Text of 1,000 kilometers an hour. Start Time 55.96 Duration 2.42
+Text In which case do you think Acceleration is involved? Start Time 58.68 Duration 4.36
+Text None! In both cases, the velocity is not changing at all. Start Time 67.16 Duration 4.9
+Text Hence, there will be no acceleration in either of the cases! Start Time 72.18 Duration 3.96
+Text Most people relate acceleration to high speed ! Start Time 76.28 Duration 3.24
+Text And that's clearly not true! Start Time 79.76 Duration 2.0
+Text Acceleration will only exist when there is change in velocity. Start Time 82.04 Duration 4.16
+Text Do you remember what velocity is ? Start Time 86.5 Duration 2.62
+Text Its speed with direction and its hence of vector quantity! Start Time 89.42 Duration 4.4
+Text Why is this important? Start Time 94.06 Duration 2.0
+Text Let's say a body moves from rest and Start Time 96.06 Duration 1.7
+Text reaches a velocity of 20 kilometers an hour in five seconds. Start Time 97.88 Duration 4.3
+Text Will acceleration be involved here? Start Time 102.42 Duration 2.86
+Text Yes, because the velocity is changing. It was zero initially, Start Time 105.5 Duration 4.7
+Text and at the end of five seconds it's 20 kilometers per hour. Start Time 110.56 Duration 3.68
+Text In another scenario, Start Time 114.5 Duration 1.47
+Text assume that a body is moving at 30 kilometers an hour, Start Time 115.97 Duration 2.99
+Text and then it moves right at 30 kilometers an hour Start Time 119.16 Duration 3.32
+Text and continues traveling at the same speed of 30 kilometers per hour. Start Time 122.66 Duration 4.42
+Text Will there be acceleration in this case? Start Time 127.3 Duration 3.28
+Text The answer is yes ! Start Time 135.32 Duration 1.32
+Text As the direction is changing, Start Time 136.98 Duration 1.86
+Text the velocity will also change. Start Time 139.18 Duration 2.0
+Text The only thing constant in this example is speed. Start Time 141.42 Duration 3.38
+Text But the velocity changes as the direction changes! Start Time 145.02 Duration 3.8
+Text So this was the most important concept you had to know about acceleration. Start Time 148.82 Duration 4.36
+Text It will exist only when there is a change in velocity! Start Time 153.32 Duration 3.52
+Text But how is acceleration calculated? Start Time 157.22 Duration 3.12
+Text Acceleration is defined as the rate of change of velocity. Start Time 160.66 Duration 4.42
+Text In terms of a formula, Start Time 165.42 Duration 1.36
+Text Acceleration can be written as 'change in velocity' Start Time 166.84 Duration 2.72
+Text 'over the time taken'. If the velocity of an object changes Start Time 169.6 Duration 4.08
+Text from an initial value of U to the final value of V, in time t, then the acceleration Start Time 173.9 Duration 6.76
+Text "a" can be written as 'V minus U' over t. Start Time 180.72 Duration 3.96
+Text Said this object is at rest initially at point "a". Start Time 184.98 Duration 3.64
+Text It then travels to the right and attains the velocity of Start Time 188.88 Duration 3.38
+Text '10 meters per second' in five seconds. Start Time 192.26 Duration 2.72
+Text What will be the acceleration here at point B? Start Time 195.32 Duration 3.12
+Text We can look at the formula to get the answer! Start Time 198.44 Duration 3.3
+Text The initial velocity U is zero meters per second as the object is stationary. Start Time 202.0 Duration 5.32
+Text The final Velocity V is 10 meters per second. Start Time 207.66 Duration 2.98
+Text And the time taken t is 5 seconds. Start Time 211.08 Duration 2.66
+Text Hence the acceleration a will equal '10 meters per second' minus Start Time 213.98 Duration 3.98
+Text 'zero meters per second', divided by 5 seconds. Start Time 218.26 Duration 3.3
+Text So this will equal 10 meters per second divided by 5 seconds. Start Time 221.82 Duration 4.16
+Text '10 divided by 5' is 2. Start Time 226.3 Duration 2.16
+Text Wait.. hold on.. Start Time 228.72 Duration 1.92
+Text What will be the units of acceleration? Start Time 230.64 Duration 2.92
+Text We should get a hint by looking at this. Start Time 233.82 Duration 1.82
+Text The units of acceleration will be Start Time 236.04 Duration 2.0
+Text 'meters per second' per second. Start Time 238.32 Duration 2.78
+Text Because it's the change in velocity over the time taken! Start Time 241.36 Duration 3.68
+Text As this is meters per second, Start Time 245.3 Duration 2.0
+Text we can carry this second to the denominator Start Time 247.3 Duration 2.16
+Text and what we will get is 'meters per second squared.' Start Time 249.46 Duration 3.74
+Text This one is more intuitive, but this one is a bit neater I would say. Start Time 253.48 Duration 4.48
+Text So the acceleration in this case will be '2 meters per second squared'. Start Time 258.22 Duration 5.32
+Text And acceleration is also a vector quantity! Start Time 263.54 Duration 2.8
+Text Here, Start Time 266.66 Duration 1.02
+Text Acceleration and Velocity are in the same direction! Start Time 267.68 Duration 3.88
+Text There are many more important concepts Start Time 271.98 Duration 1.54
+Text about acceleration, which we will cover in the coming videos. Start Time 273.6 Duration 4.3
