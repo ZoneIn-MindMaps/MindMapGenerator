@@ -14,7 +14,7 @@ class Pipeline:
         for i in range(len(list_of_sentences)):
             if (count < club_sentences):
                 s += list_of_sentences[i] + " "
-                print(s)
+                count+=1
             if (count == club_sentences):
                 clubbed_sentences.append(s)
                 s = ""
@@ -34,7 +34,7 @@ class Pipeline:
     
 
 if __name__ == '__main__':
-    df = pd.read_csv("/home/zoners/Pipeline/transcript.csv")
+    df = pd.read_csv("/home/aflah20082/Pipeline/transcript.csv")
     list_of_sentences = df['Text'].values.tolist()
     n_gram_range = (1, 1)
     top_n = 3
@@ -43,5 +43,17 @@ if __name__ == '__main__':
     pipeline = Pipeline("KeyBERT", "all-mpnet-base-v2", "KMeans")
     clubbedKeyPhrases = pipeline.KeyPhraseExtraction(list_of_sentences, n_gram_range, top_n, nr_candidates, 5)
     WordEmbeddingList = pipeline.WordEmbeddingGenerator(clubbedKeyPhrases)
+    print(clubbedKeyPhrases)
+    print()
+    print(WordEmbeddingList)
+    # with open("/home/aflah20082/Pipeline/KeyPhrases.txt", "w") as f:
+    #     for i in range(len(clubbedKeyPhrases)):
+    #         f.write(clubbedKeyPhrases[i] + "\n")
+    # with open("/home/aflah20082/Pipeline/WordEmbeddings.txt", "w") as f:
+    #     for i in range(len(WordEmbeddingList)):
+    #         f.write(str(WordEmbeddingList[i]) + "\n")
     cluster_centers, cluster_labels = pipeline.WordClustering(WordEmbeddingList, n_clusters)
+    # with open("/home/aflah20082/Pipeline/ClusterCenters.txt", "w") as f:
+    #     for i in range(len(cluster_centers)):
+    #         f.write(str(cluster_centers[i]) + "\n")
     print(cluster_centers, cluster_labels)
