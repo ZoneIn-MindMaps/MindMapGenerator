@@ -1,1 +1,1 @@
-"# Mind Map Generator" 
+# Mind Map Generator
