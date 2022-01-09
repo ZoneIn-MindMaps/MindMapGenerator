@@ -10,7 +10,7 @@ def get_transcript(video_id):
             ls2.append([i['text'].replace("\n","") , i['start'] , i['duration']])
     df = pd.DataFrame(ls2)
     df.columns =['Text', 'Start Time', 'Duration']
-    df.to_csv("transcript.csv", index=False)
+    df.to_csv("transcript2.csv", index=False)
 
 if __name__ == '__main__':
-    get_transcript("vxFYfumAAlY")
+    get_transcript("DxREm3s1scA")
