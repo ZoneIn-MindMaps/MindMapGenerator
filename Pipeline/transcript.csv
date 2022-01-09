@@ -1,78 +1,1919 @@
 Text,Start Time,Duration
-"When we are in a stationary car that moves rapidly to gain speed,",4.54,3.9
-we get pushed back against our seat.,8.68,2.02
-"And when brakes are applied, we get pushed ahead.",11.0,3.48
-"Or when we take a sharp right turn, we are pushed towards the left.",14.76,3.78
-These are all situations where we are Accelerating!,18.74,3.74
-"We have all experienced this whether in a car,",22.6,2.68
-"or a bus, or while riding a motorbike.",25.44,2.84
-"Simply put, when velocity changes, we have acceleration.",28.64,4.78
-I still haven't defined what acceleration is.,33.66,2.88
-"I just told you that when velocity changes, there will be acceleration.",36.72,5.32
-"Okay, let me give you two examples.",42.32,2.76
-"In the first one,",45.18,0.86
-a car is traveling in a straight line at a constant speed of 80 kilometers an hour.,46.34,5.04
-"And in the second one,",51.48,1.16
-a plane is traveling in a straight line at a constant speed,52.94,3.02
-"of 1,000 kilometers an hour.",55.96,2.42
-In which case do you think Acceleration is involved?,58.68,4.36
-"None! In both cases, the velocity is not changing at all.",67.16,4.9
-"Hence, there will be no acceleration in either of the cases!",72.18,3.96
-Most people relate acceleration to high speed !,76.28,3.24
-And that's clearly not true!,79.76,2.0
-Acceleration will only exist when there is change in velocity.,82.04,4.16
-Do you remember what velocity is ?,86.5,2.62
-Its speed with direction and its hence of vector quantity!,89.42,4.4
-Why is this important?,94.06,2.0
-Let's say a body moves from rest and,96.06,1.7
-reaches a velocity of 20 kilometers an hour in five seconds.,97.88,4.3
-Will acceleration be involved here?,102.42,2.86
-"Yes, because the velocity is changing. It was zero initially,",105.5,4.7
-and at the end of five seconds it's 20 kilometers per hour.,110.56,3.68
-"In another scenario,",114.5,1.47
-"assume that a body is moving at 30 kilometers an hour,",115.97,2.99
-and then it moves right at 30 kilometers an hour,119.16,3.32
-and continues traveling at the same speed of 30 kilometers per hour.,122.66,4.42
-Will there be acceleration in this case?,127.3,3.28
-The answer is yes !,135.32,1.32
-"As the direction is changing,",136.98,1.86
-the velocity will also change.,139.18,2.0
-The only thing constant in this example is speed.,141.42,3.38
-But the velocity changes as the direction changes!,145.02,3.8
-So this was the most important concept you had to know about acceleration.,148.82,4.36
-It will exist only when there is a change in velocity!,153.32,3.52
-But how is acceleration calculated?,157.22,3.12
-Acceleration is defined as the rate of change of velocity.,160.66,4.42
-"In terms of a formula,",165.42,1.36
-Acceleration can be written as 'change in velocity',166.84,2.72
-'over the time taken'. If the velocity of an object changes,169.6,4.08
-"from an initial value of U to the final value of V, in time t, then the acceleration",173.9,6.76
-"""a"" can be written as 'V minus U' over t.",180.72,3.96
-"Said this object is at rest initially at point ""a"".",184.98,3.64
-It then travels to the right and attains the velocity of,188.88,3.38
-'10 meters per second' in five seconds.,192.26,2.72
-What will be the acceleration here at point B?,195.32,3.12
-We can look at the formula to get the answer!,198.44,3.3
-The initial velocity U is zero meters per second as the object is stationary.,202.0,5.32
-The final Velocity V is 10 meters per second.,207.66,2.98
-And the time taken t is 5 seconds.,211.08,2.66
-Hence the acceleration a will equal '10 meters per second' minus,213.98,3.98
-"'zero meters per second', divided by 5 seconds.",218.26,3.3
-So this will equal 10 meters per second divided by 5 seconds.,221.82,4.16
-'10 divided by 5' is 2.,226.3,2.16
-Wait.. hold on..,228.72,1.92
-What will be the units of acceleration?,230.64,2.92
-We should get a hint by looking at this.,233.82,1.82
-The units of acceleration will be,236.04,2.0
-'meters per second' per second.,238.32,2.78
-Because it's the change in velocity over the time taken!,241.36,3.68
-"As this is meters per second,",245.3,2.0
-we can carry this second to the denominator,247.3,2.16
-and what we will get is 'meters per second squared.',249.46,3.74
-"This one is more intuitive, but this one is a bit neater I would say.",253.48,4.48
-So the acceleration in this case will be '2 meters per second squared'.,258.22,5.32
-And acceleration is also a vector quantity!,263.54,2.8
-"Here,",266.66,1.02
-Acceleration and Velocity are in the same direction!,267.68,3.88
-There are many more important concepts,271.98,1.54
-"about acceleration, which we will cover in the coming videos.",273.6,4.3
+"LEWIS MURRAY: Good evening,good evening, good evening.",38.115,5.595
+"My name is Lewis Murray, andI'm the Vise President of Ames.",43.71,3.56
+Welcome to the AmesMoot Court final round.,47.27,2.265
+[CROWD CHEERS],49.535,3.219
+Presiding over thisyear's competition,56.71,2.22
+"are the HonorableMerrick Garland,",58.93,1.8
+"Chief Judge, UnitedStates Court of Appeals",60.73,2.52
+District of Columbia circuit.,63.25,2.01
+The Honorable Michelle Friedlandof the United States Court,65.26,2.76
+of Appeals forthe Ninth Circuit.,68.02,1.85
+And the Honorable Amul Thaparof the United States Court,69.87,2.83
+of Appeals forthe Sixth Circuit.,72.7,2.19
+This evening's case waswritten by Elizabeth Prelogar,74.89,2.91
+and Tajinder Singh.,77.8,1.59
+Today's case posestwo key questions.,79.39,3.46
+One.,82.85,0.8
+Whether the IndianChild Welfare Act,83.65,2.31
+and the final ruleimplementing the statute,85.96,2.64
+violate equal protection?,88.6,2.35
+Two.,90.95,0.94
+Whether the IndianChild Welfare Act,91.89,2.16
+and the final ruleimplementing the statute,94.05,2.56
+violate theanti-commandeering component,96.61,2.43
+of the Tenth Amendment?,99.04,2.11
+"Representing the petitioner, theJanet Wood Reno Memorial Team,",101.15,4.11
+Kevin Chen.,105.26,1.16
+"McKayla Gilbert-Lurie, oralist.",106.42,2.65
+"Eliza Green, CaseyJaskie, Al Kelley,",109.07,3.99
+"oralist, and Carolyn Lee.",113.06,2.78
+Representing the respondent.,115.84,1.55
+"The Patricia RobertsHarris Memorial Team,",117.39,2.56
+"Alicia Alvaro-Kosky, CharlotteUtash, Melanie Faunts, oralist.",119.95,6.18
+"Kelsey Frazier, oralist.",126.13,2.4
+"Hilary Hurd, and Kate Piefer.",128.53,3.07
+Please silence all phonesand electronic devices.,131.6,3.42
+"And please, no photosduring the competition.",135.02,3.27
+"Finally, pleaserefrain from leaving",138.29,2.07
+the courtroom during arguments.,140.36,1.98
+"Thank you so muchfor your attendance,",142.34,1.8
+and enjoy the competition.,144.14,1.602
+[APPLAUSE],145.742,3.936
+SPEAKER 1: All rise.,154.217,0.833
+"The Honorable,the Chief Justice,",157.6,1.5
+and the AssociateJustices of the Supreme,159.1,1.95
+Court of the United States.,161.05,1.14
+"Oh yay, yay, yay.",170.82,1.92
+"All persons having businessbefore the Honorable,",172.74,2.19
+the Supreme Courtof the United States,174.93,1.98
+are admonished to draw nearand give their attention,176.91,2.43
+for the Court is now sitting.,179.34,2.14
+"God, save the United States,and this honorable Court.",181.48,2.54
+MERRICK GARLAND: OK.,194.507,0.833
+"I'll call the first,and apparently,",195.34,2.29
+only case for the day.,197.63,2.7
+Number 19-619 UnitedStates Department,200.33,3.12
+of the Interior v.Bryce Caldwell et al.,203.45,5.68
+Attorneys for the petitioner.,209.13,1.395
+"MCKAYLA GILBERT-LURIE:Mr. Chief Justice,",222.405,2.105
+and may it please the Court.,224.51,2.21
+"My name is McKaylaGilbert-Lurie,",226.72,1.8
+"and I, along with myco-counsel Mr. Al Kelly,",228.52,3.57
+represent the United StatesDepartment of the Interior.,232.09,3.72
+"I will be addressing theequal protection issue,",235.81,2.29
+and Mr. Kelly will be addressingthe anti-commandeering issue.,238.1,3.89
+We would like to reservethree minutes for rebuttal.,241.99,4.59
+The federal government'srelationship with Indian tribes,246.58,2.75
+is premised on an understandingenshrined in the Constitution,249.33,4.02
+that Indian tribesconstitute a political class.,253.35,3.929
+This understandingserves as the principle,257.279,2.131
+underlying allfederal legislation,259.41,2.04
+governing Indian Affairs.,261.45,2.13
+At issue today is onesuch piece of legislation.,263.58,3.39
+"The Indian ChildWelfare Act, or ICWA.",266.97,3.81
+"This Court reviewslegislation, like ICWA,",270.78,2.73
+that is directed atthose who are politically,273.51,1.92
+affiliated with federallyrecognized tribes,275.43,2.82
+under the standard establishedin Morton V Mancari.,278.25,3.56
+The Mancari testupholds such legislation,281.81,2.66
+as long as it canbe tied rationally,284.47,2.04
+to Congress's uniqueobligation toward Indians.,286.51,3.48
+ICWA satisfies the Mancari test.,289.99,2.49
+It is directed only atthose who are politically,292.48,2.34
+"affiliated with federallyrecognized tribes, and is--",294.82,3.103
+AMUL THAPAR: Can you--,297.923,0.917
+I'm sorry to interruptyou-- but can,298.84,1.5
+you explain to us what theymean by political in that case?,300.34,3.887
+"MCKAYLA GILBERT-LURIE:Absolutely, Justice Thapar.",304.227,2.083
+So a political affiliation witha federally recognized tribe,306.31,3.96
+"is what this Courthas always understood,",310.27,2.22
+"and what is enshrinedin the Constitution,",312.49,2.58
+as a relationship witha political entity that,315.07,3.0
+has a sovereign tosovereign relationship,318.07,2.64
+"with the federal government, andIndian tribes-- at least those",320.71,3.84
+which are federally recognizedby the United States,324.55,3.24
+government-- dohave the sovereign,327.79,1.68
+to sovereign relationship.,329.47,1.83
+And ICWA contains twodefinitions of an Indian child.,331.3,3.9
+There are two ways that a childcan qualify as an Indian child,335.2,3.72
+for the purposes of ICWA.,338.92,2.04
+"First, a child canqualify as an Indian child",340.96,2.91
+by being an enrolled member ofa federally recognized tribe.,343.87,3.35
+And this definitionfalls squarely,347.22,2.83
+"within the Mancaridefinition, and respondents",350.05,2.49
+don't contest that thisdefinition of Indian child,352.54,3.55
+falls--,356.09,0.5
+AMUL THAPAR: The problemis right-- the second part.,356.59,2.312
+That's where they take issue?,358.902,1.208
+"MCKAYLA GILBERT-LURIE:Yes, Justice Thapar.",360.11,1.792
+"If there is a problem, it wouldbe with the second definition.",361.902,2.618
+"And the second definitionallows children,",364.52,2.36
+"who are the biological childrenof enrolled tribe members, who",366.88,4.08
+"are themselves eligiblefor tribal enrollment,",370.96,2.31
+to be covered by ICWA.,373.27,1.52
+But this definitiondoes not change the fact,374.79,2.59
+that Mancari is theappropriate standard,377.38,2.07
+under which to review ICWA.,379.45,1.905
+MICHELLE FRIEDLAND: Butthis child in this case,381.355,2.325
+"was not a member of thetribe, and hadn't even",383.68,2.94
+had contact with the parentwho was a member of a tribe.,386.62,3.99
+So how is that a politicalconnection instead of a blood,390.61,2.94
+connection at that point?,393.55,1.458
+The only connection is throughthe blood of the father.,395.008,2.292
+Right?,397.3,0.56
+"MCKAYLA GILBERT-LURIE:Well, respectfully,",397.86,1.25
+"Justice Friedland,we would disagree",399.11,1.5
+with that characterization.,400.61,1.29
+"CJ, in this case, hasa political affiliation",401.9,3.35
+with the [INAUDIBLE] nation.,405.25,1.48
+And that's because CJ is thechild of an enrolled member,406.73,3.29
+of [INAUDIBLE] nation.,410.02,1.08
+And it's useful tothink about membership,411.1,2.4
+in a federally recognized tribeas analogous to citizenship.,413.5,3.86
+And in much the same way thatthe United States government,417.36,3.04
+grants to grant citizenship tothe children of United States,420.4,3.72
+"citizens who are born abroad,federally recognized tribes",424.12,3.54
+"impute onto the childrenof their members,",427.66,2.07
+a political affiliationwith that tribe.,429.73,2.07
+And it's thatpolitical affiliation.,431.8,1.545
+AMUL THAPAR: So how--,433.345,1.095
+I'm sorry.,434.44,0.525
+"MICHELLE FRIEDLAND: I wasjust going to ask, how",434.965,1.245
+do you get to another tribe?,436.21,1.68
+Because it was actuallya different tribe,437.89,2.01
+that expressed aninterest in this child.,439.9,2.49
+And I have an easier timeseeing what the rationale could,442.39,3.48
+be for helping the child becomea member of his or her parent's,445.87,3.63
+"tribe, rather thansome other tribe.",449.5,1.905
+MCKAYLA GILBERT-LURIE:Certainly.,451.405,1.375
+So the fact thatICWA allows children,452.78,2.51
+to be placed withmembers of another tribe,455.29,2.13
+speaks to Congress'sconcern when,457.42,2.58
+"they were passing ICWAin 1978, that children",460.0,3.9
+"were being removed not onlyfrom their tribes and families,",463.9,2.64
+but from Indianculture more generally.,466.54,2.41
+And it was this concern that--,468.95,2.48
+"MERRICK GARLAND: Sohow is that, though,",471.43,2.37
+political rather than racial?,473.8,2.06
+"That is, if the child has noconnection to the other tribe.",475.86,6.31
+I understand the argumentyou're making about the tribe,482.17,3.21
+"that his father's from,but for the other tribe,",485.38,2.43
+there is no connection.,487.81,1.95
+Why is this political?,489.76,1.303
+"MCKAYLA GILBERT-LURIE:Well, Your Honor,",491.063,1.667
+"because CJ, or a given child,has a political affiliation",492.73,4.08
+"with a tribe, that child, thus,has a political affiliation",496.81,4.65
+to Indian culture.,501.46,1.77
+"And Congress sought to correctthe devastating consequences,",503.23,3.36
+and the psychologicalharm to children--,506.59,1.83
+MERRICK GARLAND: Isthe United States',508.42,1.583
+relationship with Indian tribesindividually or with anyone,510.003,4.656
+who is an Indian?,514.659,1.681
+That is the politicalrelationship.,516.34,1.739
+"MCKAYLA GILBERT-LURIE:Well, Your Honor,",518.079,1.667
+it's a politicalaffiliation with both tribes,519.746,2.354
+"and with children-- or rather--with members of tribes,",522.1,3.09
+so it's both an individualand a collective,525.19,2.13
+political affiliation.,527.32,1.2
+But it's not apolitical affiliation,528.52,2.25
+"with all who identifyas Indian, and that's",530.77,2.91
+because membership in afederally recognized tribe,533.68,2.94
+is distinct from identifying asan Indian or a Native American.,536.62,4.32
+The two don't mapon to one another.,540.94,2.41
+"There are 5.2 million peoplein this country, at least",543.35,2.99
+"according to themost recent census,",546.34,2.37
+that identify as AmericanIndian or Alaskan Native.,548.71,2.72
+"MICHELLE FRIEDLAND: But they'renot all of the same culture,",551.43,2.96
+are they?,554.39,0.5
+So you were juststarting to talk,554.89,1.41
+"about the legislativehistory, and you talk about",556.3,2.19
+in your brief aswell that Congress,558.49,2.25
+was trying to remedythe harms of removing,560.74,2.67
+"Indian children fromquote ""Indian society"",",563.41,2.95
+but is there any suchthing as Indian society?,566.36,2.33
+Or is that just a stereotype?,568.69,1.29
+It seems like there aremany different tribes,569.98,2.01
+with many different cultures.,571.99,1.703
+"MCKAYLA GILBERT-LURIE:Justice Friedland, it's true.",573.693,2.167
+"Tribes do haveindividual cultures,",575.86,2.16
+and they are distinctpolitical entities.,578.02,2.01
+But we would suggestthat this Court look,580.03,3.12
+"to the amicus brief filedjust this year, in the Fifth",583.15,3.69
+Circuit the 325 tribes--,586.84,2.79
+federally recognized tribes--who filed an amicus brief,589.63,2.97
+"in Bracheen v Burnhardt, whoall evinced their understanding",592.6,3.6
+"that ICWA does serve to protectIndian children and tribes,",596.2,3.69
+"even with this thirdplacement, that",599.89,1.77
+"allows children tobe placed in a tribe,",601.66,2.76
+even if it's not thetribe they were born into.,604.42,3.01
+And that's because this thirdpreference allows for children,607.43,3.29
+"to be placed with other Indianfamilies, if, for example--",610.72,2.485
+AMUL THAPAR: Doesn't that--,613.205,1.125
+Doesn't that changeyou when you add,614.33,2.33
+"in the thirdpreference, any tribe,",616.66,2.55
+aren't you evisceratingthe political distinction,619.21,3.27
+and really making ita racial distinction?,622.48,2.007
+"MCKAYLA GILBERT-LURIE: I don'tthink so, Justice Thapar.",624.487,2.333
+And that's becausethese children only,626.82,2.5
+have a political affiliationwith Indian culture,629.32,2.97
+at all because they are thechildren of members of tribes.,632.29,4.2
+And those members havea political affiliation,636.49,2.34
+with the tribe.,638.83,0.66
+And this Court has alwaysunderstood this relationship,639.49,2.91
+to be a political one.,642.4,1.2
+"And starting with Mancari, andall the way through until 2005,",643.6,4.71
+"with Rice, this Courthas always understood",648.31,1.83
+that to be a fundamentallypolitical class indication.,650.14,2.47
+AMUL THAPAR: So can the tribesdefine who their members,652.61,4.13
+are any way they want?,656.74,1.388
+"MCKAYLA GILBERT-LURIE:Yes, Justice Thapar.",658.128,1.792
+This Court--,659.92,0.67
+AMUL THAPAR: Sowhat if they were,660.59,1.375
+like racially discriminatoryin defining the definition,661.965,3.685
+of the tribal members.,665.65,1.02
+"Saying anyone with even onedrop of Asian, or Black blood,",666.67,4.47
+can't be a member.,671.14,2.04
+"Then, would you still say itwas political in nature, and OK?",673.18,3.113
+"MCKAYLA GILBERT-LURIE: Well, twopoints on that, Justice Thapar.",676.293,2.667
+"First, yes, tribes, accordingto this Court in Santa Clara",678.96,3.16
+"Pueblo v Martinez,are authorized",682.12,2.46
+to have complete authority todefine their own membership.,684.58,2.64
+But the second point isthat Congress need not,687.22,2.46
+recognize all of these tribes.,689.68,1.8
+So if a tribe did define itsmembership in a way that was,691.48,3.66
+anathema to Congress'sunderstanding of what a tribe,695.14,2.528
+should be-- or at leastwhat the government,697.668,1.792
+should recognize as a tribe--,699.46,1.515
+"AMUL THAPAR: But ifCongress recognized them,",700.975,1.875
+"you'd say that then,we would have to allow",702.85,2.49
+racially discriminatory tribes?,705.34,1.357
+"MCKAYLA GILBERT-LURIE:No, Your Honor,",706.697,1.583
+"that would present amuch closer question,",708.28,1.89
+and would be the kindof classification,710.17,1.71
+that this Court might reviewunder strict scrutiny.,711.88,2.2
+But that's not the casewe have before us today.,714.08,2.33
+AMUL THAPAR: So I'm sorryto take you on this tangent.,716.41,2.85
+"But explain why then itwould be strict scrutiny,",719.26,2.64
+and a nonpoliticalclassification?,721.9,2.7
+We can look at--,724.6,0.983
+"is what you'resaying, we can look",725.583,1.417
+at how tribesdefine their members,727.0,3.21
+to decide if it's a politicalclassification or a racial one?,730.21,3.383
+"MCKAYLA GILBERT-LURIE:Yes, Justice Thapar,",733.593,1.792
+"if a tribe did define itsmembership in a racial way,",735.385,3.975
+then that could be thekind of classification--,739.36,2.34
+even though it would be apolitical classification--,741.7,2.52
+"if it had a racialelement as well,",744.22,2.38
+it would be a much closerquestion of the kind,746.6,2.0
+that this Court would reviewunder strict scrutiny.,748.6,1.86
+MICHELLE FRIEDLAND:But don't many tribes,750.46,1.708
+have some blood requirements?,752.168,2.442
+So they do have a racialpart of the definition,754.61,2.66
+of their tribal membership?,757.27,1.125
+"MCKAYLA GILBERT-LURIE: JusticeFriedland, many tribes have",758.395,2.417
+a blood quantum requirement.,760.812,1.318
+"And the two tribes at issuetoday, the [INAUDIBLE]----",762.13,2.07
+"MERRICK GARLAND:It seems for that,",764.2,1.458
+"we need Elizabeth Holmes, ratherthan Oliver Wendell Holmes.",765.658,4.592
+What do you meanby a blood quantum?,770.25,2.17
+And what is the test that[INAUDIBLE] developed for this?,772.42,3.313
+"MCKAYLA GILBERT-LURIE:Mr Chief Justice,",775.733,1.667
+"we would not need touse-- and thankfully,",777.4,2.1
+we would not need touse-- any sort of--,779.5,1.9
+[INTERPOSING VOICES],781.4,1.19
+MCKAYLA GILBERT-LURIE: --here.,782.59,1.25
+And that's becauseblood quantum doesn't,783.84,1.87
+"refer to any sort of DNA test,or any sort of blood test",785.71,3.49
+at all.,789.2,0.5
+It merely refers to thenumber of generations removed,789.7,4.08
+that an individual is fromsomeone whose name is listed,793.78,2.7
+on an original tribal roll.,796.48,2.4
+"It has no bloodrequirement, even though it",798.88,3.36
+"might sound like asignifier of race,",802.24,1.957
+this Court has alwaysunderstood blood quantum.,804.197,1.958
+"MERRICK GARLAND: Soeven if you're right,",806.155,1.708
+"that it's political,and we apply Mancari,",807.863,2.867
+it still has to be rational.,810.73,1.65
+"So what's rational aboutsending a child, who",812.38,3.24
+"lives in Ames, for example,to Washington state,",815.62,4.98
+to a tribe of whichthe child could never,820.6,2.55
+"be a member, oversomeone closer,",823.15,4.02
+someone who has morerelationships with the tribe.,827.17,4.17
+How is this rational?,831.34,2.34
+Even if we agree thatrational basis is the test.,833.68,2.553
+"MCKAYLA GILBERT-LURIE:Well, Your Honor,",836.233,1.667
+in creating federalminimum standards,837.9,2.35
+"for the removal of Indianchildren from their families,",840.25,3.54
+ICWA ensures that childrendo remain enmeshed,843.79,4.2
+in their tribal culture.,847.99,1.39
+MERRICK GARLAND: It'sa different truck.,849.38,2.125
+The hypothesis is it'snot their tribal culture.,851.505,4.635
+"It's a completely differenttribe across the country,",856.14,3.48
+"and they cannot ever becomea member of that tribe,",859.62,2.55
+because they have no ancestral--ancestors from the tribe.,862.17,2.927
+"MCKAYLA GILBERT-LURIE:Certainly, Justice, chief--",865.097,2.083
+Mr. Chief Justice.,867.18,0.96
+"In this case, thechild would still",868.14,1.83
+have a politicalconnection to that tribe.,869.97,3.968
+MERRICK GARLAND: I getthe political point.,873.938,1.792
+"Now, I'm moving on tohow is it rational.",875.73,1.873
+"MCKAYLA GILBERT-LURIE:Well, Your Honor.",877.603,1.667
+MERRICK GARLAND: Political justgets you to what the test is.,879.27,1.8
+Right?,881.07,0.66
+Now we have to see whetherthis is a reasonable thing,881.73,2.61
+for Congress to have done.,884.34,1.138
+MCKAYLA GILBERT-LURIE:It's rational.,885.478,1.542
+"And, so far, is thatit allows for children",887.02,2.54
+to be protected in their--,889.56,1.47
+[COLLECTIVE GASP],891.03,3.976
+MERRICK GARLAND: Iwithdraw the question.,961.604,2.546
+[CROWD CHEERS],964.15,3.19
+MCKAYLA GILBERT-LURIE: What?,975.721,1.965
+Yes.,977.686,0.5
+[INTERPOSING VOICES],978.186,1.972
+[APPLAUSE],980.158,4.437
+MERRICK GARLAND: Wouldyou like a brief recess?,986.427,1.958
+"MCKAYLA GILBERT-LURIE:No, Your Honor.",988.385,1.583
+MERRICK GARLAND: Are you sure?,989.968,1.444
+MCKAYLA GILBERT-LURIE: I'm fine.,991.412,1.333
+"No, I'm really good.",992.745,1.28
+MERRICK GARLAND: All right.,994.025,1.125
+I direct the Bailiff togive her her time back.,995.15,4.37
+MCKAYLA GILBERT-LURIE:It was a ploy.,999.52,1.542
+"Would you mind repeatingthe question, Your Honor?",1011.31,2.785
+AMUL THAPAR: I don't knowif we want him to ask.,1014.095,2.562
+[CROWD CHEERS],1016.657,3.207
+MERRICK GARLAND: I think you'vealready answered it perfectly.,1022.344,4.631
+"MICHELLE FRIEDLAND:So maybe, I can",1026.975,1.805
+"ask a version ofthe question, which",1028.78,1.589
+is how is it rational to senda child to a different tribe?,1030.369,5.851
+"So one that neither parenthad a relationship with,",1036.22,2.849
+"even if we consider it apolitical type of relationship,",1039.069,3.241
+why would there be arationality in sending,1042.31,2.25
+a child to a different tribe?,1044.56,1.924
+MCKAYLA GILBERT-LURIE:Certainly.,1046.484,1.375
+"So a child who has a politicalconnection with one tribe,",1047.859,4.381
+and would necessarily be apart of this larger culture,1052.24,7.1
+"that this Court inMancari, and in Holyfield",1059.34,3.6
+subsequently understoodwas one of the reasons,1062.94,3.24
+that ICWA was passed.,1066.18,2.0
+"In Holyfield, thisCourt made clear",1068.18,2.26
+"that Congress sought, in part,to allow for children to remain",1070.44,4.71
+a part of their tribal culture.,1075.15,1.77
+"And, in sounderstanding, this Court",1076.92,2.91
+has acknowledged whatCongress made clear,1079.83,2.1
+"in its 1978 report accompanyingthe passage of ICWA, which",1081.93,3.42
+is that children sufferpsychological harm when they,1085.35,5.71
+"are removed not onlyfrom their own tribe,",1091.06,2.12
+but from Indianculture more generally.,1093.18,2.46
+And while respondentsmight take--,1095.64,1.507
+[INTERPOSING VOICES],1097.147,0.833
+AMUL THAPAR: But wouldn'tthey suffer the same way,1097.98,2.31
+"being moved across thecountry, versus right",1100.29,3.09
+next to their tribein a familiar area?,1103.38,2.64
+"And especially, if they hadnever been a part of the tribe?",1106.02,3.43
+"MCKAYLA GILBERT-LURIE:Perhaps, Justice Thapar,",1109.45,2.21
+but Congressdetermined that it was,1111.66,2.28
+in the Indianchild's best interest,1113.94,3.57
+to remain in theTribal Community.,1117.51,3.312
+AMUL THAPAR: Do we haveto defer to that finding?,1120.822,2.798
+"MCKAYLA GILBERT-LURIE:No, Justice Thapar.",1123.62,1.81
+So this Court made clear inthe United States versus Sioux,1125.43,2.55
+Nation that this Court neednot take Congress at its word,1127.98,2.88
+"that its legislation servesthe best interests of tribes,",1130.86,4.41
+or advances their interests.,1135.27,1.51
+"However, this Court canlook to external evidence",1136.78,2.9
+"to confirm thatthis does, in fact,",1139.68,1.65
+serve Congress's interests.,1141.33,1.98
+"Or rather, that this doesn'tserve tribes interests.",1143.31,2.9
+"And one example of thisis as recently as 2016,",1146.21,3.67
+the Bureau of IndianAffairs promulgated,1149.88,2.07
+a rule that implemented it.,1151.95,3.19
+"Where that's the finalrule, and in that rule,",1155.14,3.0
+it evinced the intent of atleast the leading government,1158.14,2.78
+"agency with respect to IndianAffairs, that ICWA does,",1160.92,3.51
+"in fact, serve the purposethat it was intended to serve.",1164.43,3.87
+And that Congress was correctthat these three preferences,1168.3,3.45
+are rationally tied--,1171.75,1.18
+"MICHELLE FRIEDLAND: So theState Family Court, though,",1172.93,2.25
+thought that thischild's best interest was,1175.18,2.54
+to stay with the Caldwell's.,1177.72,1.29
+Right?,1179.01,0.675
+"MCKAYLA GILBERT-LURIE: Notexactly, Justice Friedland.",1179.685,2.25
+"So the FamilyCourt, in this case,",1181.935,2.295
+denied the Caldwell's adoptionpetition in order to--,1184.23,3.442
+MICHELLE FRIEDLAND: But inorder to comply with ICWA.,1187.672,2.208
+Right?,1189.88,0.56
+"I thought the premise was thatotherwise, they would have--",1190.44,3.12
+the Court would have giventhe child to the Caldwell's?,1193.56,2.37
+"MCKAYLA GILBERT-LURIE:It's not clear, Your Honor.",1195.93,1.77
+"And I want to hew closelyto the record on this issue,",1197.7,2.29
+but it's not clearthat the Family,1199.99,1.417
+Court did determine that.,1201.407,1.423
+"Instead, they determinedthat the Caldwell's were not,",1202.83,3.18
+"in any way, notfit to be parents.",1206.01,3.02
+But the--,1209.03,0.5
+MERRICK GARLAND: Ithought it was a burden,1209.53,1.75
+"of proof question, a burden--",1211.28,1.27
+"MCKAYLA GILBERT-LURIE:Well, certainly.",1212.55,1.08
+MERRICK GARLAND: It didn'tsatisfy the burden of proof.,1213.63,1.17
+MCKAYLA GILBERT-LURIE: Exactly.,1214.8,1.47
+Mr. Chief Justice.,1216.27,0.96
+What the FamilyCourt did determine,1217.23,1.77
+was that the Caldwell'sdid not present,1219.0,1.68
+clear and compelling evidence--,1220.68,2.25
+that the Caldwell's submittedsufficient justification,1222.93,5.31
+to deviate for a good cause.,1228.24,1.93
+And so it's not clearthat they thought,1230.17,1.91
+"the Caldwell's were, in fact,the appropriate parents.",1232.08,3.48
+But rather thatfollowing ICWA's dictates,1235.56,1.95
+"was more appropriatein this case, which--",1237.51,2.34
+"MICHELLE FRIEDLAND: So ifthe Family Court had said,",1239.85,2.88
+the best interestsof the child was,1242.73,2.46
+"to stay with theCaldwell's, do you",1245.19,2.01
+think that that would havenecessarily been erroneous?,1247.2,2.778
+Is your argument that it'sactually in the child's best,1249.978,2.292
+interest to be with a tribe?,1252.27,1.89
+"An argument that wouldsay, really, a Court",1254.16,2.52
+couldn't reasonably find that?,1256.68,1.725
+"MCKAYLA GILBERT-LURIE:No, Justice Friedland.",1258.405,1.875
+So this is where thegood cause exception,1260.28,2.85
+is particularly important.,1263.13,1.41
+And it ensures thatICWA is really as narrow,1264.54,3.12
+"as it can be in providingprotection to Indian children,",1267.66,3.557
+"parents, and tribes.",1271.217,0.833
+And the good causeprovision allows for Courts,1272.05,3.08
+to deviate from ICWA'sprovisions for good cause.,1275.13,3.15
+"And the Bureau of IndianAffairs, in its recent rule",1278.28,2.73
+promulgated fornonexhaustive factors,1281.01,2.34
+that Courts areauthorized to consider,1283.35,1.71
+in determining good cause.,1285.06,1.18
+"So if the lowercourt had, in fact,",1286.24,1.662
+determined that therewas sufficient evidence--,1287.902,1.958
+MERRICK GARLAND:Could the good clause,1289.86,1.583
+include that it's too far away?,1291.443,2.027
+"It's at another tribe,but it's too far away,",1293.47,2.52
+or it's a tribe that theycan't be a member of?,1295.99,2.105
+Or anything like That,1298.095,0.875
+"MCKAYLA GILBERT-LURIE:Well, Chief Justice Garland,",1298.97,2.125
+that's not one ofthe four factors,1301.095,2.325
+that is explicitly listed.,1303.42,1.38
+"Those four factors include theopinion of a biological parent,",1304.8,3.57
+"the opinion of the child, ifhe or she is of sufficient age",1308.37,3.33
+"and capacity to have heropinion taken into account,",1311.7,3.12
+"the extreme emotional, physical,or mental needs of the child,",1314.82,4.645
+or the presence ofa sibling attachment,1319.465,1.625
+that can only be maintainedthrough a certain placement.,1321.09,2.52
+But the factorsare nonexhaustive.,1323.61,2.1
+So that's not to say thatphysical distance couldn't,1325.71,2.7
+create a mentalneed for the child,1328.41,3.21
+to stay with a given family.,1331.62,1.23
+It's just the--,1332.85,0.625
+MICHELLE FRIEDLAND: I noticedthat the regulations say that,1333.475,3.785
+attachment that flowed fromtime spent with a non preferred,1337.26,3.63
+placement cannot be considered.,1340.89,2.07
+Was this anonpreferred placement?,1342.96,1.78
+Did this placement violate ICWA?,1344.74,1.523
+"MCKAYLA GILBERT-LURIE:Yes, Justice Friedland.",1346.263,1.917
+This was anonpreferred placement.,1348.18,1.417
+MICHELLE FRIEDLAND: Meaningeven the foster care.,1349.597,2.041
+So there wasessentially a mistake,1351.638,1.432
+in putting this child with theCaldwell's in the first place?,1353.07,2.31
+"MCKAYLA GILBERT-LURIE:Exactly, Justice Friedland.",1355.38,2.083
+There was a mistake becausethe Child and Family Services,1357.463,2.757
+was not aware that CJ hada tribal affiliation--,1360.22,3.18
+or the politicalrelationship with the tribe--,1363.4,2.49
+"until the Caldwell'spetition to adopt,",1365.89,2.28
+and the Court becameaware of CJ's status.,1368.17,5.86
+And this Court hasnever before held,1374.03,2.63
+that a statute thatclassifies based,1376.66,2.31
+on political affiliation witha federally recognized tribe,1378.97,2.79
+violates equal protection.,1381.76,1.47
+And it should not do sofor the first time today.,1383.23,3.72
+"For the foregoingreasons, we respectfully",1386.95,1.89
+ask that this Court reverse.,1388.84,1.32
+Thank you.,1390.16,1.212
+MERRICK GARLAND: Good rebbutal.,1391.372,1.418
+[CROWD CHEERS],1392.79,3.472
+"All right, we're goingto be easier on you.",1423.724,1.841
+AL KELLEY: Thank you.,1425.565,0.875
+"Mr. Chief Justice, andmay it please the Court.",1429.05,2.88
+The anti-commandeeringdoctrine stands,1431.93,2.19
+for the fundamentalnotion that Congress,1434.12,2.22
+"must direct legislationat private actors,",1436.34,2.94
+rather than at states.,1439.28,1.8
+ICWA does not violatethis clear rule.,1441.08,2.67
+The Act confers rights onindividuals and tribes involved,1443.75,3.66
+in child welfare proceedings.,1447.41,2.16
+"Accordingly, underthe Supremacy Clause,",1449.57,2.13
+states must respectthese rights.,1451.7,2.25
+And insofar asICWA's provisioned,1453.95,1.77
+"of rights affectsstate actors, it",1455.72,1.92
+"does so as a statuteof general application,",1457.64,3.21
+not as a law directedat the states.,1460.85,3.05
+The parties here agree thatthe appropriate framework,1463.9,2.29
+under which to analyze thisanti-commandeering challenge,1466.19,2.58
+comes from this Court'sopinion last year in Murphy.,1468.77,3.12
+"In Murphy, the Courtlaid out a two part test",1471.89,2.37
+to determine whethera statute constitutes,1474.26,2.88
+"impermissible commandeeringof the state's,",1477.14,2.07
+or valid preemptionof state law.,1479.21,2.76
+"First, the Court looks towhether a statute represents",1481.97,3.09
+the valid exercise of one ofCongress's enumerated powers.,1485.06,4.09
+And then the Court asks whetherthat statute is best read,1489.15,2.72
+as regulating private actors.,1491.87,2.18
+ICWA satisfies bothprongs of this test.,1494.05,2.17
+MICHELLE FRIEDLAND: On yourprivate actors argument.,1496.22,2.22
+So are you arguing that ICWAregulates private actors,1498.44,4.83
+at the sense ofthe families whose,1503.27,2.22
+relationships are affected?,1505.49,1.23
+Or is your argument thatthere are private adoption,1506.72,2.79
+agencies who are regulated?,1509.51,1.923
+"AL KELLEY: Both, Your Honor.",1511.433,1.167
+So ICWA is best referred asregulating private actors,1512.6,3.42
+for two primary reasons.,1516.02,1.54
+The first is that itserves to confer rights,1517.56,3.35
+"on private actors, Indianchildren, parents, and tribes",1520.91,3.39
+involved in these proceedings.,1524.3,1.87
+And the second isthat the statute,1526.17,1.49
+is of general application.,1527.66,1.59
+So it applies withequal force to,1529.25,2.49
+both public and private actors.,1531.74,1.74
+"So states involved inthese proceedings, as well",1533.48,2.52
+"as individuals, such as theCaldwell's, and perhaps,",1536.0,3.195
+private adoption or foster.,1539.195,1.125
+AMUL THAPAR: What aboutwhen it requires states,1540.32,1.958
+to keep records and the like?,1542.278,2.482
+Isn't it requiring statesto affirmatively do,1544.76,3.84
+certain things?,1548.6,1.26
+AL KELLEY: So the recordkeeping requirement,1549.86,2.13
+is best read as securingone of the rights,1551.99,2.85
+that ICWA conferson private actors.,1554.84,2.08
+"And that's the rightconferred in Section 1917,",1556.92,3.02
+for an adoptedIndian child to learn,1559.94,3.0
+of their tribal affiliationthrough Court records.,1562.94,2.73
+And the only way forthis right to be secured,1565.67,2.37
+is by requiring thatstate courts maintain,1568.04,2.46
+records in Section 1951.,1570.5,2.37
+"So that's still best read asregulating private actors,",1572.87,2.94
+because it servesto confer a right.,1575.81,2.25
+And ICWA provides anumber of other rights,1578.06,2.16
+"to tribes, in theform of the ability",1580.22,2.04
+"to intervene inproceedings, and parents,",1582.26,2.98
+and all of theseprovisions are best,1585.24,1.52
+"read as regulatingprivate actors,",1586.76,2.04
+not as directing the states.,1588.8,1.44
+MERRICK GARLAND: I'm puzzledby one aspect of your brief,1590.24,2.73
+where you appear toinsist that the placement,1592.97,2.85
+preferences are proceduralrather than substantive.,1595.82,5.21
+I have two questions.,1601.03,1.13
+"One, why is that so?",1602.16,1.52
+"And two, why does that help you?",1603.68,2.15
+AL KELLEY: So takingthose questions in turn.,1605.83,2.27
+"First, we arguethat these are best",1608.1,2.09
+understood as rightsthat are secured,1610.19,1.98
+through procedural guarantees.,1612.17,1.73
+So we didn't mean toindicate that this,1613.9,2.32
+is procedural versussubstantive for eerie purposes.,1616.22,4.06
+"And as this Court discussed injinx, it's indeed in this area,",1620.28,3.15
+hard to draw any distinctline between procedural,1623.43,4.04
+and substantive mandates.,1627.47,1.44
+So we merely meant topoint out that they're,1628.91,2.49
+procedural guaranteesthat ensure these rights.,1631.4,2.535
+MERRICK GARLAND:What's the right?,1633.935,1.731
+AL KELLEY: The right is--,1635.666,1.692
+depending on the provision--,1637.358,1.167
+MERRICK GARLAND: Withrespect to the preference.,1638.525,2.0
+I assume the right isa substantive right,1640.525,2.395
+"to not be removedto a family, other",1642.92,3.27
+than one of the preferences.,1646.19,1.725
+"AL KELLEY: Yes, so--",1647.915,0.855
+MERRICK GARLAND: That'sa substantive right.,1648.77,0.99
+AL KELLEY: That's asubstantive right.,1649.76,1.583
+"And as Congress noted,in passing ICWA,",1651.343,3.047
+it found that Indianchildren suffer harms,1654.39,4.49
+from being placed outside oftheir tribe and their culture.,1658.88,3.07
+And so the right vestedin Indian children,1661.95,2.39
+through theplacement preferences,1664.34,1.44
+is to be able to growup within one's culture.,1665.78,3.6
+And the rights thatare given to try--,1669.38,1.95
+MICHELLE FRIEDLAND:Are the findings,1671.33,1.5
+"that the children suffer,or that the tribe suffers?",1672.83,4.143
+"AL KELLEY: Both, Your Honor.",1676.973,1.167
+"So Congress, in passing ICWA,found that children suffer",1678.14,4.17
+serious psychological harms.,1682.31,1.83
+But it also foundthat tribes were--,1684.14,2.79
+their ability to continueas self-governing entities,1686.93,2.52
+was being threatenedby the removal,1689.45,2.19
+of so many current and potentialmembers from their ranks.,1691.64,3.15
+So it's a right vestedin both parties.,1694.79,3.18
+And the respondents don'tcontest that it was--,1697.97,3.648
+"AMUL THAPAR: I'mpuzzled, why doesn't",1701.618,1.542
+the state have an interest?,1703.16,1.26
+"If you have a child who's nota member of an Indian tribe,",1704.42,3.82
+why wouldn't thestate have an interest,1708.24,2.49
+"at that point that wasequal to, if not greater,",1710.73,2.82
+than the Indian tribes?,1713.55,2.33
+"AL KELLEY: Well, Congressmade the determination",1715.88,2.0
+when weighing therelative interests there,1717.88,2.46
+to apply federal lawthat gave greater,1720.34,3.63
+"weight to the protection ofthese Indian children, parents,",1723.97,2.88
+and tribes.,1726.85,0.78
+So it was Congress's jobto determine how to balance,1727.63,3.33
+those competing interests.,1730.96,1.38
+And it did hold--,1732.34,1.56
+it did establish in Section--,1733.9,1.44
+AMUL THAPAR: Wheredoes the power,1735.34,1.375
+come from that gives Congressthe ability to balance,1736.715,2.605
+those competing interests?,1739.32,1.36
+"Because it doesn't seem to comefrom the Indian's, the Commerce",1740.68,3.24
+Clause?,1743.92,1.237
+"AL KELLEY: Well, Your Honor,this Court has consistently",1745.157,2.333
+characterized Congress'spower under not just,1747.49,2.55
+"the Indian CommerceClause, but also the treaty",1750.04,2.01
+"clause as forming plenary, andexclusive grant of authority",1752.05,4.32
+in this area.,1756.37,0.91
+And there's no subjectmatter limitation,1757.28,2.42
+on this power Congresshas saw fit to regulate,1759.7,2.387
+in a wide range of areasthat affect [INAUDIBLE]..,1762.087,2.083
+"AMUL THAPAR: Buthere, you have a child",1764.17,1.625
+without any tribal membership.,1765.795,1.285
+Right?,1767.08,1.55
+"And so, I'm not sure,what's their interest",1768.63,2.34
+in that situation?,1770.97,1.65
+AL KELLEY: Congressstill has an interest,1772.62,1.86
+as a part of its trustobligation towards the tribes,1774.48,3.99
+to regulate with regardto these children.,1778.47,2.37
+And this Court has neverlimited Congress's power,1780.84,3.21
+in the field of IndianAffairs to regulating only,1784.05,2.79
+enrolled members of tribes.,1786.84,1.5
+"For example, in Mazurie, itregulated the sale of alcohol",1788.34,4.14
+"by nontribal members inon, or near reservations.",1792.48,3.63
+And this is a very broadgrant of authority.,1796.11,1.86
+And the only time thatthis Court has ever,1797.97,1.98
+found that a statute exceeds thebreadth of Congress's authority,1799.95,4.2
+under the IndianCommerce Clause is,1804.15,1.53
+when that statute has beenused to try to abrogate state,1805.68,3.75
+sovereign immunity to violate.,1809.43,1.283
+AMUL THAPAR: Doyou have any cases,1810.713,1.417
+"where there wasn'ttribal membership,",1812.13,2.07
+where we've upheld the law?,1814.2,1.33
+"Because here, there'sno tribal membership.",1815.53,1.94
+And you're asking us to hold it.,1817.47,2.12
+"And in all the othercases I've seen,",1819.59,2.52
+the cases related directlyto tribal membership.,1822.11,3.86
+"AL KELLEY: Well, YourHonor, in the United States",1825.97,2.605
+"versus Mazurie from 1975,the court applied a statute",1828.575,2.925
+to non-tribal members.,1831.5,1.65
+And it generally hasdone so with regard,1833.15,2.49
+to on or nearreservation activities.,1835.64,4.89
+And so it's never heldthat the Indian Commerce,1840.53,3.3
+Clause is limited toonly regulating members,1843.83,3.57
+of federally recognized tribes.,1847.4,1.59
+"It can be anything that relatesto this trust obligation,",1848.99,3.24
+as this issue surely does.,1852.23,2.19
+"Now, respondents don't contestthat ICWA confers rights",1854.42,3.15
+"on private actors, butinstead argue that it requires",1857.57,3.27
+states to confer rights.,1860.84,1.65
+But this conflatesrespect for rights,1862.49,2.94
+with conferral for rights.,1865.43,1.59
+"Unlike the statutes that wereat issue in New York and Murphy,",1867.02,3.66
+ICWA doesn't requirestate legislatures,1870.68,2.13
+to create any new standardsor pass any legislation.,1872.81,3.69
+It simply requiresthat state actors,1876.5,2.37
+comply with these generallyapplicable regulations.,1878.87,3.72
+And any conferral ofrights will necessarily,1882.59,2.73
+affect third parties.,1885.32,1.69
+But ICWA's effects occurequally and even-handedly,1887.01,4.58
+to both public andprivate actors.,1891.59,1.87
+And it's thus similar to--,1893.46,1.203
+"MICHELLE FRIEDLAND: I know youargue that, in that regard,",1894.663,2.417
+it's similar to Garcia.,1897.08,2.97
+But in Garcia theminimum wage requirements,1900.05,2.55
+that defined thestates as employer,1902.6,2.988
+applied to lots ofprivate employers.,1905.588,1.542
+"And overall, there areprobably more private employers",1907.13,2.25
+than there are state employers.,1909.38,1.38
+"But here, aren'tchild welfare services",1910.76,2.73
+usually government run?,1913.49,1.765
+"So to the extent,part of your argument",1915.255,1.625
+"is, well, there areprivate ones too, it's kind",1916.88,1.958
+of the opposite of Garcia.,1918.838,1.432
+"AL KELLEY: That may bethe case, Your Honor.",1920.27,1.833
+"However, it's very similarto what this court faced",1922.103,2.247
+"in Reno v Condon,in which Congress",1924.35,2.55
+passed a law regulatingthe use of information,1926.9,3.27
+created by state DMVs.,1930.17,2.19
+And it held therethat the statute,1932.36,1.56
+"was of generalapplication, because it",1933.92,1.95
+"applied not just to state DMVs,but to the private parties who",1935.87,3.66
+had obtained that informationfrom those agencies.,1939.53,2.79
+"And so there, thestatute clearly",1942.32,2.4
+have an outsizedeffect on states.,1944.72,2.08
+"But the court stillheld that, because it",1946.8,2.0
+was of generalapplication it didn't,1948.8,2.13
+violate theanti-commandeering doctrine,1950.93,2.25
+or implicate the same concernsthat this court was faced,1953.18,2.73
+"with for example, in Prince.",1955.91,2.3
+And this case is alsodistinguishable from what,1958.21,2.44
+was at issue in Prince becausewhereas Prince involved,1960.65,3.3
+"an unconditionalorder to state actors,",1963.95,3.26
+ICWA is better understood asa limitation on state action.,1967.21,4.06
+So the Brady HandgunAct Provision,1971.27,2.49
+that was at issue in Princeordered state officers,1973.76,2.88
+to conduct backgroundchecks irrespective,1976.64,2.25
+of any other state action.,1978.89,1.58
+But ICWA's mandatesonly come into effect,1980.47,2.53
+when the state decidesto remove an Indian child,1983.0,3.33
+from their biologicalparents or place that child,1986.33,2.85
+in foster or adoptive care.,1989.18,2.16
+And thus it's more similarto what this court faced,1991.34,3.69
+"in South Carolina v Baker,where it held that states could",1995.03,3.78
+be compelled to complywith obligations,1998.81,3.21
+or regulations dealingwith the issuance of bonds.,2002.02,3.33
+Because states had to makean affirmative decision,2005.35,2.19
+to issue bonds before thoserequirements came into place.,2007.54,3.155
+MICHELLE FRIEDLAND:So I know one,2010.695,1.375
+of your argumentsin your brief is,2012.07,3.24
+that we shouldn'tworry that people,2015.31,2.34
+will blame the wrong sovereign.,2017.65,1.7
+So if they're upsetabout ICWA they,2019.35,1.78
+will understand thatICWA is a federal law,2021.13,3.69
+because the federalgovernment usually is who's,2024.82,2.46
+involved in Indian Affairs.,2027.28,1.86
+But I think that assumesa much higher level,2029.14,3.12
+of civics knowledge thanpeople usually have.,2032.26,2.067
+There are lots of peoplein this country who,2034.327,1.833
+can't name three branchesof government or members,2036.16,2.58
+of our court.,2038.74,1.2
+"And I'm wondering why youthink that people, especially",2039.94,3.27
+"people like the Caldwellswho are not Native American,",2043.21,2.97
+will understand how thefederal government interacts,2046.18,2.64
+with Native Americans.,2048.82,1.26
+"AL KELLEY: Well, twopoints on that, Your Honor.",2050.08,2.0
+"First, this court has citedpolitical accountability",2052.08,2.53
+as one of the concernsor rationales that,2054.61,5.79
+undergrow theanti-commandeering doctrine.,2060.4,2.31
+But it's neverheld that those are,2062.71,1.71
+dispositive in the analysis.,2064.42,1.59
+"But second, we doargue that the kind",2066.01,2.459
+of political accountabilityconcerns that,2068.469,2.851
+were added to in this Court'sprevious anti-commandeering,2071.32,2.46
+cases aren't at issue here.,2073.78,1.441
+And that's becausethe federal government,2075.221,1.708
+does have a longstanding relationship,2076.929,2.881
+with federal tribes.,2079.81,1.19
+"AMUL THAPAR: Yeah, but I mean,what political accountability",2081.0,2.5
+"comes down to is who are theygoing to hold accountable,",2083.5,2.52
+just a simplified way.,2086.02,1.25
+And all this occursin the state court,2087.27,2.56
+"system as youyourself acknowledge,",2089.83,1.82
+and the state system.,2091.65,1.1
+So why wouldn't they belooking to the states?,2092.75,2.438
+"AL KELLEY: Well,Your Honor, we think",2095.188,1.542
+there are certain areas thatthe federal government has,2096.73,2.292
+traditionally beenmore responsible for.,2099.022,2.388
+"In our brief, wecite a statute that",2101.41,2.79
+deals with family lawproceedings involving,2104.2,3.33
+"service members, activeduty service members.",2107.53,2.13
+And we think the sameimplications are at issue here.,2109.66,2.8
+I think most people wouldn'thold the state government,2112.46,2.33
+accountable fordifferent standards that,2114.79,1.98
+apply to custody ordersinvolving active duty service,2116.77,2.68
+members.,2119.45,0.5
+And the same is truefor Indian tribes.,2119.95,1.637
+"MERRICK GARLAND: SoI'm a new justice,",2121.587,1.583
+and I'm trying to understand.,2123.17,2.0
+What is the PoliticalAccountability Clause,2125.17,2.88
+of the Constitutionof the United States?,2128.05,2.91
+"There is no suchclause, is there?",2130.96,1.42
+"AL KELLEY: Thereis not, Your Honor.",2132.38,1.5
+"MERRICK GARLAND:So I tend to, when",2133.88,1.458
+I think about this I refer toa famous law review article,2135.338,3.692
+"by an obscure law school deannamed Manning, who Fortunately",2139.03,7.29
+was saved from privatepractice by the fact,2146.32,2.49
+that Arnold and Porterdid not hire him.,2148.81,3.81
+And he takes the positionin this 2009 article,2152.62,3.66
+that the NI commandeering entiredoctrine is atextual and worst,2156.28,6.75
+"of all, purposovist.",2163.03,1.46
+"Where does it come from,and should we not reconsider",2164.49,6.19
+a doctrine that reallyhas no basis in the text,2170.68,2.25
+of the Constitution?,2172.93,1.14
+The Constitution has specificprovisions that provide,2174.07,3.09
+the elements of federalism.,2177.16,1.2
+"But to go beyond them, likepolitical accountability,",2178.36,3.39
+that sounds like something wetalk about in poly sci courses.,2181.75,3.33
+Why don't you just challengethe doctrine altogether?,2185.08,2.445
+"AL KELLEY: Because Your Honor,the anti-commandeering doctrine",2187.525,2.583
+is not centered in thetext or any one provision,2190.108,2.502
+of the Constitution becauseit represents an omission,2192.61,2.76
+from the Constitution.,2195.37,1.02
+And that's the omission of thepower of the federal government,2196.39,2.94
+to do--,2199.33,0.5
+MERRICK GARLAND: So that seemslike the kind of argument,2199.83,1.36
+the other side might make.,2201.19,1.823
+You would do a lotbetter if there,2203.013,1.417
+"were no anti-commandeeringprinciple, wouldn't you?",2204.43,2.583
+"AL KELLEY: PerhapsYour Honor, but there",2207.013,1.667
+is no anti-commandeering issueeven under the current doctrine,2208.68,3.3
+here.,2211.98,0.5
+And that's because what'sat issue here with ICWA,2212.48,2.85
+is the kind of regulationthat Congress has frequently,2215.33,2.975
+used in the past and has neverbeen understood to raise--,2218.305,2.375
+MERRICK GARLAND: Whatabout the question,2220.68,0.97
+of procedure versus substancethat I started with?,2221.65,2.76
+"Can Congress enact procedures,rules of civil procedure",2224.41,6.54
+to cover federal rightsin state causes of action?,2230.95,5.296
+"AL KELLEY: Well, as thiscourt discussed in Jinx,",2236.246,2.354
+it hasn't reached that question.,2238.6,1.56
+MERRICK GARLAND: Sothat's why I'm asking you.,2240.16,2.07
+Now we have toreach that question.,2242.23,1.755
+AL KELLEY: I think for purelyprocedural guarantees or purely,2243.985,4.485
+procedural mandatesthat may implicate,2248.47,2.297
+the anti-commandeering doctrine.,2250.767,1.333
+"But whenever those mandateshave a real substantive bite,",2252.1,3.39
+"as they do here, it doesn'timplicate the doctrine.",2255.49,2.55
+Because these areprocedural guarantees,2258.04,1.77
+that are securing a right.,2259.81,1.56
+And the anti-commandeeringdoctrine,2261.37,1.71
+has never beenunderstood to prevent,2263.08,2.22
+the federal governmentfrom conferring rights,2265.3,2.04
+on private actors.,2267.34,1.495
+And it's also never--,2268.835,0.875
+MERRICK GARLAND: What aboutthis provision that requires,2269.71,2.333
+you to produce an expert?,2272.043,1.437
+Is that proceduralor substantive?,2273.48,3.331
+"AL KELLEY: Likely similarto the other guarantees,",2276.811,2.859
+it would be a proceduralguarantee that,2279.67,1.71
+secures a substantive right.,2281.38,1.65
+And there it's theright of Indian families,2283.03,2.34
+to remain together.,2285.37,0.87
+"If the state wishes to remove achild in certain circumstances,",2286.24,3.6
+it must producean expert witness.,2289.84,1.65
+"But as this courtdiscussed in Prince,",2291.49,2.64
+this kind of productionof expert witnesses,2294.13,1.92
+"has a long history,and has been allowed",2296.05,2.25
+in the past for congressionalmandates on state courts.,2298.3,2.89
+Thank you.,2301.19,1.202
+[APPLAUSE],2302.392,2.43
+MERRICK GARLAND: We will nowhear from the respondents.,2314.55,2.33
+"MELANIE FONTS: Thankyou, Mr. Chief Justice.",2316.88,1.833
+And may it please the court.,2318.713,1.197
+"My name is Melanie Fonts, andon behalf of respondents Bryce",2319.91,3.09
+and Candice Caldwelland the state of Ames,2323.0,2.43
+I will address theequal protection issue.,2325.43,2.9
+This court should affirm thejudgment of the Ames Circuit,2328.33,3.15
+and holds that the Indian ChildWelfare Act and the final rule,2331.48,3.36
+are unconstitutionalfor three reasons.,2334.84,3.07
+"First, ICWA classifieschildren on the basis",2337.91,2.75
+of their Indianancestry and thus,2340.66,2.28
+is a racial classificationsubject to strict scrutiny.,2342.94,3.6
+"Second, ICWA failsstrict scrutiny",2346.54,2.58
+because it is notnarrowly tailored,2349.12,1.77
+to a compellinggovernment interest.,2350.89,2.43
+"And third, even if ICWA diduse a political classification",2353.32,4.08
+it fails any lowerstandard of review,2357.4,2.22
+because it is notrationally related,2359.62,1.98
+to a legitimate state interest.,2361.6,2.2
+"Thus, we ask thatthis court strike down",2363.8,1.84
+ICWA and the final rule.,2365.64,2.07
+"First, ICWA operateson the basis",2367.71,2.35
+"of a racial classification,not a political classification.",2370.06,3.185
+MICHELLE FRIEDLAND: So it seems like--,2373.245,1.705
+I'm sorry.,2374.95,0.36
+"MERRICK GARLAND:No, no, go ahead.",2375.31,0.48
+MICHELLE FRIEDLAND : It seemslike a lot of your argument,2375.79,2.375
+on this point and other pointshas to do with the second,2378.165,2.935
+choice preference of goingto a different tribe instead,2381.1,2.76
+of the tribe that aparent is a member of.,2383.86,2.64
+I'm wondering if we agreewith you that that part is not,2386.5,4.225
+"rational or doesn't have acompelling interest, depending",2390.725,2.375
+"on what standardapplies, and we find",2393.1,2.07
+"that to be severable,whether you still",2395.17,2.61
+have all of your arguments asto the remainder of the statute.,2397.78,3.15
+"MELANIE FONTS: Yes,Your Honor we do.",2400.93,1.56
+And that's because weunderstand to sever,2402.49,1.77
+any part of either thedefinition or the placement,2404.26,2.61
+preferences or anyother part of ICWA,2406.87,2.25
+would be to change fundamentallythe applicability of the law.,2409.12,3.592
+We know this becausewe know that--,2412.712,1.458
+"AMUL THAPAR: OK, but dowe just ignore, then,",2414.17,2.54
+Congress's severability clause?,2416.71,2.22
+It seems to me Congressgets to make that call.,2418.93,3.142
+"MELANIE FONTS: YourHonor, Congress",2422.072,1.458
+does get to make this call.,2423.53,1.23
+"However, we have evidence fromthe legislative history where",2424.76,3.0
+we see that theDepartment of Justice,2427.76,1.71
+"asked Congress twice to change,for example, the definition--",2429.47,2.87
+"MERRICK GARLAND: Thatword, legislative history,",2432.34,2.0
+I don't think I like that word.,2434.34,2.102
+AMUL THAPAR: Ithink Dean Manning's,2436.442,1.458
+written about that too.,2437.9,1.502
+"MERRICK GARLAND: Yeah, I know.",2439.402,1.398
+I don't like that.,2440.8,3.63
+"I may be jumping the gun,but to take the question",2444.43,4.57
+from the justice on myright a little bit further.,2449.0,3.836
+Is your position that allclassifications that are,2452.836,2.924
+based on ancestry are racial?,2455.76,3.078
+"MELANIE FONTS: Yes, Your Honor.",2458.838,1.292
+MERRICK GARLAND: Soaren't all Indians tribes,2460.13,3.78
+based on ancestry?,2463.91,1.95
+"That is, everyrecognized Indian tribe",2465.86,3.75
+"requires that there be someoriginal historical group,",2469.61,4.73
+and that the currentmembers are descendants,2474.34,2.53
+"of that group, isn't that true?",2476.87,1.513
+"MELANIE FONTS: Thatis true, Your Honor.",2478.383,1.667
+It's our understandingthat the presumption,2480.05,1.83
+"is where a lawclassifies on ancestry,",2481.88,2.4
+"and thus race, it is aracial classification",2484.28,2.91
+"unless the law fitsinto the narrow,",2487.19,2.25
+carved out space of Mancari.,2489.44,2.15
+Mancari is a narrow exceptionto our understanding,2491.59,2.68
+of racial classification.,2494.27,1.71
+As this court made clear inits opinion in that case--,2495.98,3.695
+MERRICK GARLAND: Whatis the narrowing?,2499.675,1.625
+"Why doesn't, under your theory,every federal law relating",2501.3,5.33
+to Indian tribes subjectto strict scrutiny?,2506.63,4.11
+"Because every Indiantribe, every current member",2510.74,3.6
+has to trace theirancestry one way or another,2514.34,3.69
+to the originalhistorical tribes.,2518.03,4.515
+MELANIE FONTS: Although everytribe has some ancestral,2522.545,2.775
+"requirement formembership, we recognize",2525.32,2.97
+"that there is a politicalact involved, rather,",2528.29,2.31
+two political acts involvedin membership in a federally,2530.6,3.12
+recognized tribe.,2533.72,1.23
+The first of thosepolitical acts,2534.95,2.91
+is the actual recognitionby the federal government,2537.86,2.79
+of that tribe.,2540.65,1.11
+The second is the affirmativechoice an individual,2541.76,2.25
+makes to join that tribe.,2544.01,1.71
+"Without those twopolitical acts,",2545.72,2.1
+what we have is theracial group of Indians.,2547.82,2.19
+"MERRICK GARLAND:OK, so now you're",2550.01,1.47
+"talking about theenrollment question, right?",2551.48,2.22
+"Is that what you're saying, thatthe problem here is the child's",2553.7,2.667
+not yet enrolled?,2556.367,0.783
+"MELANIE FONTS: Yes, Your Honor.",2557.15,1.292
+"MERRICK GARLAND: So let's assumethat the statute ended at 4A,",2558.442,4.178
+and the child was alreadya member of a tribe.,2562.62,2.99
+Is that a racial classification?,2565.61,1.53
+"MELANIE FONTS: Yes, Your Honor.",2567.14,1.59
+MERRICK GARLAND:So then it doesn't,2568.73,0.93
+matter whether it's enrolled.,2569.66,1.208
+Your position is everymember of every tribe,2570.868,6.622
+comes through ancestry.,2577.49,1.35
+And therefore every rulethe federal government,2578.84,3.13
+relating to Indians issubject to strict scrutiny.,2581.97,2.27
+Is that right?,2584.24,0.678
+"MELANIE FONTS: Notquite, Your Honor.",2584.918,1.542
+And that's becauseMancari recognizes,2586.46,2.16
+that a law ceases to bea racial classification,2588.62,2.7
+and becomes a politicalclassification where,2591.32,2.27
+there are two factors present.,2593.59,2.86
+First is that the lawapplies only to members,2596.45,2.37
+of federally recognized tribes.,2598.82,1.92
+And second is thatthe legislation,2600.74,2.19
+aims at the federalinterests in furthering,2602.93,2.16
+tribal self-government.,2605.09,1.53
+"So where this law, which doesnot aim at furthering tribal",2606.62,3.48
+"self-government, even if--",2610.1,1.143
+AMUL THAPAR: Why doesn't it?,2611.243,1.167
+I'm not sure I follow you.,2612.41,1.2
+Why wouldn't it aim infurthering self-government?,2613.61,2.67
+If the whole principleis to keep the tribes,2616.28,3.54
+"and allow people that shouldbe members to be members,",2619.82,3.54
+isn't that fosteringself-government ultimately?,2623.36,2.82
+MELANIE FONTS: Not asthis court has understood.,2626.18,2.1
+"In Mancari, we saw thatthis court understood",2628.28,2.4
+tribal self-governancequite narrowly,2630.68,1.92
+as a political andeconomic interest,2632.6,1.86
+to paraphrase from the opinion.,2634.46,1.64
+"And the Ninth Circuit hashelpfully defined this for us,",2636.1,2.8
+and told us to look foruniquely Indian interests--,2638.9,2.4
+MERRICK GARLAND: TheNinth Circuit actually,2641.3,1.792
+doesn't carry much sway here.,2643.092,2.288
+And Mancari only talked about--,2648.53,2.46
+"no disrespect to the NinthCircuit, but it is the fact.",2650.99,3.225
+Mancari talked abouttribal self-government,2657.05,2.26
+as something thatmattered in that case.,2659.31,3.65
+Did we suggest thatthat was the only,2662.96,2.21
+possible ground forrecognizing this,2665.17,4.17
+as a political circumstance?,2669.34,2.28
+The example that my colleagueon the left expresses,2671.62,3.3
+is close to tribal government.,2674.92,2.0
+We never said tribalself-government,2676.92,1.72
+was the only thingthat would satisfy us.,2678.64,4.323
+"MELANIE FONTS: YourHonor, this court did not.",2682.963,1.917
+"However, if we look at the lineof cases following Mancari,",2684.88,3.42
+we see that tribalself-governance,2688.3,1.62
+has been construed narrowly.,2689.92,1.65
+"So we can fast forward, forexample, to Rice in 2000 where",2691.57,3.09
+this court held that thecandidate qualification,2694.66,2.64
+preference for native Hawaiianswho had an ancestor who,2697.3,4.63
+"was present in theHawaiian Islands in 1778,",2701.93,3.56
+that even if nativeHawaiians were members,2705.49,3.96
+"of a federally recognizedtribe, that preference",2709.45,2.4
+would still fail Mancari.,2711.85,1.86
+Because it went tocritical state affairs.,2713.71,2.22
+Even though the Office ofHawaiian Affairs in many ways,2715.93,3.15
+functioned similar to parts ofthe Bureau of Indian Affairs.,2719.08,3.25
+And we can see thistime and time again,2722.33,1.82
+if we look at this court'sprecedent following Mancari.,2724.15,2.305
+"MICHELLE FRIEDLAND : Butin both of those cases,",2726.455,2.165
+there was some tribal ornative-related entity.,2728.62,4.29
+But we're talkingabout the tribe itself.,2732.91,2.17
+How can the tribesurvive without members?,2735.08,2.815
+"MELANIE FONTS: Your Honor,while the tribe cannot survive",2737.895,2.375
+without members the questionbefore us right now is whether,2740.27,3.24
+that interest is enough to lowerthe standard of review here.,2743.51,3.9
+We argue that it is not becausethat falls outside this court's,2747.41,2.97
+long-held understandingof where there,2750.38,2.16
+is a political classification.,2752.54,1.69
+So to turn to some examples.,2754.23,1.74
+"We see in cases likeFisher and Angelo,",2755.97,2.72
+those cases involved politicalclassifications not just,2758.69,4.92
+because they appliedonly to members,2763.61,1.71
+"of federally recognized tribes,but because they advanced",2765.32,3.18
+tribal politicalself governance that,2768.5,2.13
+is transferring jurisdictionfrom state courts,2770.63,2.64
+to tribal and federal courts.,2773.27,1.98
+"In Moe, for example,we saw that the law",2775.25,2.16
+was a political classificationbecause it advanced,2777.41,2.34
+"economicself-governance, that is,",2779.75,1.89
+providing the Indiantribe tax immunity,2781.64,2.37
+from local and state taxes.,2784.01,1.8
+MERRICK GARLAND: Why isn'tmaintaining the human beings,2785.81,2.88
+who are going to makeup a tribe as much,2788.69,2.91
+a matter of the continuingself-government of the tribe,2791.6,3.62
+as is economic issues?,2795.22,4.11
+Why isn't it more important?,2799.33,2.222
+Seems like it wouldcome a fortiori,2801.552,1.458
+if we're going to protecteconomic interests of the tribe,2803.01,2.75
+that we're to protect theirinterests in surviving,2805.76,2.95
+to the next generation.,2808.71,1.482
+"MELANIE FONTS:Because, Your Honor,",2810.192,1.458
+the inquiry here is justwhether the standard of review,2811.65,2.55
+ought to change becauseof the interests involved.,2814.2,3.45
+"We construe tribal selfgovernance narrowly,",2817.65,2.332
+not because we don'trecognize that there might,2819.982,1.958
+"be other tribalinterests at stake,",2821.94,1.95
+but because we realizethat Congress ought,2823.89,2.01
+to be owed more deference whereit is legislating with respect,2825.9,3.0
+to tribal Indians.,2828.9,1.35
+But that same levelof deference can't,2830.25,1.77
+be owed where the federalgovernment is aiming,2832.02,2.43
+at something other thanthat narrow conception,2834.45,3.09
+of tribal self-governance.,2837.54,1.31
+AMUL THAPAR: Can Igo back to your--,2838.85,1.03
+I'm sorry to interrupt.,2839.88,0.76
+Can I go back to your racialclassification for a second?,2840.64,2.35
+Because I'm struggling.,2842.99,0.958
+So can a tribe define itsmembers however it wants?,2843.948,2.625
+"MELANIE FONTS: Withinsome limits, Your Honor,",2846.573,1.917
+"as this court held inSanta Clara v Martinez,",2848.49,4.05
+the tribes have broad authorityto set their own membership,2852.54,3.84
+requirements.,2856.38,0.97
+"However, we can see withsome of the lower courts",2857.35,2.18
+that there are some limits.,2859.53,1.5
+"For example, if we look at the[INAUDIBLE] case, for which",2861.03,3.39
+"this court denied comingout of the Tenth Circuit,",2864.42,2.76
+there the TenthCircuit held that where,2867.18,3.15
+"the tribe had changed itseligibility requirement, where",2870.33,3.57
+it had automatically enrolledchildren for 240 days,2873.9,3.9
+after birth in order to avoidany perverse consequences,2877.8,4.83
+with ICWA.,2882.63,0.78
+There the court struck downthat membership requirement,2883.41,3.0
+because it held that thatwas just doing gamesmanship,2886.41,2.34
+with a federal statute.,2888.75,1.29
+Similar to--,2890.04,0.63
+AMUL THAPAR: So assumethey're not doing gamesmanship,2890.67,2.21
+with the federal statute.,2892.88,1.34
+"But assume, as you I thinkacknowledged in your briefs,",2894.22,2.9
+"they're lettingwhites in, descendants",2897.12,3.03
+"of slaves, people that have noancestry traced to the tribe.",2900.15,3.84
+You would still call ita racial classification,2903.99,2.19
+under that circumstance?,2906.18,1.2
+"MELANIE FONTS: Yes,Your Honor, it's",2907.38,1.5
+still a racial classificationunder that circumstance,2908.88,2.49
+for three reasons.,2911.37,2.08
+"First, even though a law mayclassify other individuals",2913.45,4.16
+"excluding or outsidethat racial group,",2917.61,2.61
+the law is not any lessof a racial classification,2920.22,2.85
+where race is thepredominant factor.,2923.07,1.805
+And we can see this inother equal protection cases,2924.875,2.125
+"for example, inMiller v Johnson.",2927.0,2.19
+"Second, This court has held thatthe political classification",2929.19,5.43
+is narrowed to members offederally recognized tribes.,2934.62,2.94
+Because it recognizesthat there is an official,2937.56,2.07
+process for thatfederal recognition.,2939.63,2.052
+"For example, if we look atthe Federal Acknowledgment",2941.682,2.208
+"Act, which has governedthe federal recognition",2943.89,2.91
+"process since 1994,part of that act",2946.8,3.12
+requires that tribes submitconstitutions and bylaws,2949.92,3.63
+defining their membership.,2953.55,1.65
+So federal recognitionis predicated,2955.2,2.1
+on an understandingof how the tribe will,2957.3,2.13
+define its membership.,2959.43,1.75
+"And as the DCCircuit, for example,",2961.18,2.07
+held in Cherokee Nation versusNash very recently where--,2963.25,3.197
+MERRICK GARLAND: That'sanother circuit that,2966.447,1.833
+doesn't get much sway up here.,2968.28,1.25
+MICHELLE FRIEDLAND : Iwas going to interrupt.,2969.53,1.993
+"MELANIE FONTS: But toprovide an example, there,",2971.523,3.207
+where the CherokeeNation attempted,2974.73,1.92
+to disenroll the descendantsof former freedmen,2976.65,4.29
+"and former slaves,the Court struck down",2980.94,3.09
+that membershipchange because it,2984.03,1.77
+acted against an 1866 treaty.,2985.8,2.28
+So we understand thatmembership is tied to the--,2988.08,2.31
+MERRICK GARLAND:Can I get back to--,2990.39,1.5
+"I think it was theTenth Circuit, which",2991.89,1.44
+"we're going to give some swayto, that you are talking about.",2993.33,2.61
+"But which unfortunately,I didn't read the opinion.",2995.94,2.32
+Because it's acircuit and we only,2998.26,1.91
+read our own opinions up here.,3000.17,2.47
+Are you saying it held that youcan't have automatic enrollment,3002.64,3.41
+in the tribe?,3006.05,0.97
+"MELANIE FONTS: No, Your Honor.",3007.02,1.25
+There the TenthCircuit took notice,3008.27,1.86
+that the tribe hadchanged its enrollment,3010.13,2.25
+criteria simply to avoidthe application of ICWA.,3012.38,2.97
+So there becomes a question ofwhen the court will question.,3015.35,2.75
+MERRICK GARLAND: Sowhat if the tribe,3018.1,2.53
+had birthright citizenship?,3020.63,2.07
+"Right, you're born ofa member of the tribe,",3022.7,4.74
+you're automaticallyin the tribe.,3027.44,1.65
+"Just like you're born of anAmerican, you're an American.",3029.09,4.41
+"Would that be OK or not OK,from your point of view?",3033.5,3.397
+"MELANIE FONTS: YourHonor, it depends.",3036.897,1.583
+If that automaticenrollment process was,3038.48,2.34
+part of the membershipcriteria submitted,3040.82,2.22
+through the FederalAcknowledgment Act or however,3043.04,2.19
+the tribe were recognized--,3045.23,1.2
+"MERRICK GARLAND: Yeah, I'minterested in the question",3046.43,1.23
+"whether you think that'sracial or not racial,",3047.66,2.46
+whether it be subject tostrict scrutiny or not,3050.12,2.67
+strict scrutiny?,3052.79,1.68
+"If a tribe just wantedto say, everybody",3054.47,2.16
+born of a member of the tribeis a member of the tribe,3056.63,2.79
+rather than having to enrollits children separately,3059.42,4.95
+"for some reason,would that child--",3064.37,7.11
+it would be appropriate to treatthat child under ICWA the way,3071.48,2.93
+the Caldwell's fosterchild was treated here?,3074.41,3.6
+"MELANIE FONTS: Presumablyyes, Your Honor.",3078.01,1.75
+However if that werethe case that we,3079.76,1.8
+"had tribes automaticallyenrolling their members,",3081.56,2.82
+that would fundamentally changeour analysis under Mancari.,3084.38,3.46
+Mancari is clear that whenlegislation applies only,3087.84,4.19
+to members of federallyrecognized tribes,3092.03,2.34
+it ought to be considereda political classification.,3094.37,2.953
+MICHELLE FRIEDLAND : Butwe're talking about babies.,3097.323,2.167
+So I don't know--,3099.49,1.18
+"I mean, what is thedifference between what",3100.67,2.06
+"ICWA actually does, at leastwith respect to children of",3102.73,4.87
+and their relationship to atribe that one of their parents,3107.6,2.61
+was a member of that theycould become a member of?,3110.21,2.16
+If they're just babiesand they haven't yet,3112.37,2.79
+"had the opportunityto make a choice,",3115.16,1.98
+why shouldn't they be treatedas the birthright example?,3117.14,3.625
+"MELANIE FONTS: For tworeasons, Your Honor.",3120.765,2.035
+"Children, like anyother individual,",3122.8,1.92
+retain the choice toenroll in an Indian tribe,3124.72,2.85
+at any point in their lives.,3127.57,1.57
+So ICWA does nothing toadvance or prevent that choice.,3129.14,3.99
+"However, even if we wereto take special solicitude",3133.13,2.748
+of the fact--,3135.878,0.542
+"MICHELLE FRIEDLAND : But ICWAdoes advance that choice,",3136.42,2.1
+doesn't it?,3138.52,0.52
+Because it makesit much more likely,3139.04,1.52
+that they're living withmembers of the tribe.,3140.56,2.25
+"If the tribe has a reservationthat they're there perhaps,",3142.81,3.363
+rather than with someone with noconnection to the tribe at all.,3146.173,2.667
+Doesn't that makeit much more likely,3148.84,1.2
+that they'll become amember of the tribe?,3150.04,1.29
+"MELANIE FONTS: Not necessarily,Your Honor, for the simple fact",3151.33,2.85
+that the 1915 placementpreferences don't,3154.18,2.58
+"set any procedural safeguardsfor that sort of choice,",3156.76,2.97
+and even allow thechild to be transferred,3159.73,2.1
+to another tribe to which theyhave no ancestral connection,3161.83,2.92
+"and to which, like CJthey may never be--",3164.75,2.3
+AMUL THAPAR: Can I stopyou on the first half,3167.05,1.21
+because I'm notsure I understand.,3168.26,1.417
+"Are you saying that if they areraised by members of the tribe,",3169.677,2.983
+they're not more likely toparticipate in the tribe?,3172.66,6.19
+MELANIE FONTS: It may be thatthose particular children may,3178.85,2.85
+be more likely tojoin the tribe.,3181.7,2.25
+"However, we're--",3183.95,0.67
+AMUL THAPAR: Sowhy wouldn't that,3184.62,1.52
+be an interest in whichthe government can promote?,3186.14,4.1
+MELANIE FONTS: Because thelaw does not hew that closely.,3190.24,3.33
+"When we look atthe text of ICWA,",3193.57,1.53
+"it's applying to a vast majorityof Indian children, that",3195.1,3.0
+is enrolled tribalchildren and those who are,3198.1,2.37
+eligible for tribal membership.,3200.47,1.86
+And the proceduralsafeguards set forth,3202.33,2.07
+"in the placement preferences,for example, are thin.",3204.4,2.73
+They do not guaranteethat the child,3207.13,2.25
+will be placed witha family and thus,3209.38,1.98
+enroll in that Indian tribe.,3211.36,1.79
+Then this--,3213.15,0.5
+MICHELLE FRIEDLAND : Butyou're arguing that there,3213.65,1.34
+shouldn't even be an attempt.,3214.99,1.26
+"I mean, just becauseit's not perfect",3216.25,1.65
+"or it doesn'talways guarantee it,",3217.9,1.44
+does that meanCongress can't try?,3219.34,2.445
+"MELANIE FONTS:Your Honor, insofar",3221.785,2.235
+as ICWA is a racialclassification,3224.02,1.95
+"subject to strictscrutiny, Congress may not.",3225.97,2.41
+And that--,3228.38,0.5
+MICHELLE FRIEDLAND : SoI'm wondering whether it,3228.88,1.47
+even is a compelling interest.,3230.35,1.5
+"I mean, the historyhere is terrible.",3231.85,2.28
+"The federal governmentran, I believe,",3234.13,1.64
+150 or more boarding schools andsent Native American children,3235.77,3.65
+to them.,3239.42,0.5
+And they were beaten if theyspoke their native languages.,3239.92,2.92
+"I mean, there wasa massive effort",3242.84,1.43
+to assimilate these childrenso that tribes would,3244.27,2.16
+be wiped out of existence.,3246.43,1.5
+Why is it not acompelling interest,3247.93,1.56
+to remedy that history?,3249.49,1.29
+"MELANIE FONTS: Your Honor,it's not a compelling interest",3250.78,2.46
+to remedy thathistory because that's,3253.24,1.77
+not the history thatCongress was responding to.,3255.01,2.47
+"As petitioners notein their own brief,",3257.48,2.15
+that history withthe boarding schools,3259.63,1.89
+ended well before considerationof ICWA before Congress.,3261.52,3.93
+And so the state--,3265.45,0.75
+MICHELLE FRIEDLAND : Butwasn't it the beginning--,3266.2,1.11
+"I mean, maybe not the beginning.",3267.31,1.15
+There's a longhistory of problems.,3268.46,1.59
+But it was a big chunkof a problem that,3270.05,2.72
+"led to tribes nothaving as many members,",3272.77,1.92
+which then maybe gotcontinued by states.,3274.69,3.1
+But that was a serious problemfor tribes having members.,3277.79,3.317
+So I don't understand how that'snot still part of the history,3281.107,2.583
+that could be attemptedto be remedied.,3283.69,1.715
+"MELANIE FONTS:Your Honor, that's",3285.405,1.375
+because it falls outside thiscourt's jurisprudence on what,3286.78,2.91
+qualifies as acompelling state interest,3289.69,2.05
+where we're consideringpast discrimination.,3291.74,2.42
+This court has consistently heldat [INAUDIBLE] that remedying,3294.16,3.75
+discrimination without moreis not a compelling interest,3297.91,3.66
+unless the federalgovernment shows,3301.57,1.92
+that it was thegovernmental actor,3303.49,1.577
+doing the discriminating--,3305.067,1.083
+MERRICK GARLAND:I don't think so.,3306.15,1.417
+I think you're misconstruing[INAUDIBLE] and [INAUDIBLE]..,3307.567,3.163
+The issue in both of thosecases was whether the preference,3310.73,4.28
+applied to the entitythat had committed,3315.01,3.68
+the history of discrimination.,3318.69,3.67
+It wasn't a question of whetherthe federal government could,3322.36,3.18
+apply the preferenceto that same entity.,3325.54,3.097
+The federal governmentis not applying,3328.637,1.583
+this preference to itselfbased on discrimination,3330.22,3.39
+in the states.,3333.61,1.29
+It is applying thepreference to the states,3334.9,2.76
+"based on discrimination by thestates, past discrimination.",3337.66,4.63
+So I think we're goingto have to strike out,3342.29,3.11
+a new kind of case law hereto go where you're going.,3345.4,6.93
+Explain to me why[INAUDIBLE] and [INAUDIBLE],3352.33,2.4
+really match this question.,3354.73,1.753
+"MELANIE FONTS: Your Honor,those cases match this question",3356.483,2.417
+because theyrecognize that there,3358.9,1.375
+must be a strongbasis in the evidence,3360.275,1.895
+to use remedyingpast discrimination,3362.17,2.49
+as a compelling state interest.,3364.66,1.68
+"And that's because,due to this country's",3366.34,3.03
+"historical discriminationagainst racial minorities,",3369.37,3.48
+we recognize that this idea ofremedying past discrimination,3372.85,3.21
+is simply tooamorphous a concept,3376.06,2.04
+"to justifyconstitutional injury,",3378.1,2.22
+"not just on those classified bythe law, but by other actors--",3380.32,3.15
+MICHELLE FRIEDLAND : So is thereanything that Congress could do,3383.47,2.67
+to remedy these past injustices?,3386.14,1.948
+"MELANIE FONTS: Yes, Your Honor.",3388.088,1.292
+Congress could pass a lawgranting tribal courts,3389.38,3.03
+exclusive jurisdictionover adoption,3392.41,2.28
+proceedings for tribal childrenliving on or near reservations.,3394.69,3.78
+That would fall withinCongress's power.,3398.47,3.704
+[APPLAUSE],3402.174,2.46
+"KELSEY FRAZIER:Mr. Chief Justice,",3413.973,1.417
+and may it please the court.,3415.39,1.5
+The second issue in thiscase is whether Congress,3416.89,2.22
+can compel thestates to implement,3419.11,1.47
+a federal regulatoryprogram on its behalf.,3420.58,2.82
+Under the anti-commandeeringdoctrine the answer is no.,3423.4,3.21
+ICWA is thus unconstitutionaland should be struck down.,3426.61,3.57
+When the framersdrafted the Constitution,3430.18,1.86
+they explicitly chose toestablish the federal and state,3432.04,2.82
+"governments as separatespheres of sovereignty,",3434.86,2.393
+and to grant the federalgovernment the power to act,3437.253,2.167
+"on individuals, not on states.",3439.42,2.082
+"MICHELLE FRIEDLAND: So, I know one",3441.502,1.458
+of your arguments is that familylaw is the realm of the states.,3442.96,3.33
+But I believe yourcolleague just,3446.29,1.89
+said that we could take anentire aspect of family law,3448.18,3.36
+away and give it totribal governments.,3451.54,1.98
+How is that not abigger imposition than,3453.52,2.46
+what has been done here?,3455.98,1.435
+"KELSEY FRAZIER: Your Honor, ifthat transfer of jurisdiction",3457.415,3.875
+were limited toindividuals who fall,3461.29,2.16
+"within the federal government'spower over Indian Affairs,",3463.45,2.88
+whether that's understood asbeing in the Indian Commerce,3466.33,2.43
+"Clause or an understandingof plenary power,",3468.76,2.96
+a transfer of jurisdiction totribes might be permissible.,3471.72,5.72
+"One of the keyinfirmities with ICWA,",3477.44,1.58
+"however, is that it'snot limited to that group",3479.02,2.22
+of individuals withinCongress's power,3481.24,2.46
+under the Indian Affairs power.,3483.7,2.67
+"That's because, as you'vediscussed with my colleague,",3486.37,3.03
+it regulates alsochildren who are not,3489.4,2.04
+enrolled members of tribes.,3491.44,1.44
+It also regulates the parents ofthose children who might not be,3492.88,2.7
+"Indian at all, as in this case.",3495.58,1.89
+"And even the adoptiveparents, whose rights--",3497.47,2.317
+MERRICK GARLAND: Soyou're challenging,3499.787,1.583
+the other provisions ofICWA's big violations,3501.37,2.61
+of equal protection?,3503.98,2.473
+KELSEY FRAZIER: Your Honor--,3506.453,1.167
+MERRICK GARLAND: Sojust only an as applied,3507.62,2.39
+challenge to the child inthis case and to the fact,3510.01,7.02
+that this child in thiscase is not enrolled member?,3517.03,2.91
+"KELSEY FRAZIER: No, Your Honor.",3519.94,1.41
+This is a facialchallenge to law because--,3521.35,2.233
+MERRICK GARLAND: Howcan it be if you're,3523.583,1.667
+telling my colleaguethat if it were limited,3525.25,2.52
+"in certain ways, that is ifwe severed out the bad parts",3527.77,3.3
+"and saved the goodparts, it would be OK?",3531.07,1.857
+"KELSEY FRAZIER: YourHonor, for the purposes",3532.927,1.833
+"of the equalprotection challenge,",3534.76,1.417
+the focus is on the definition.,3536.177,1.643
+"And as you've discussed,our primary issue",3537.82,2.905
+with the definitionis the second part.,3540.725,1.625
+"That is the part that appliesnot to enroll tribal members,",3542.35,3.19
+but to children who are eligibleto be members of tribes.,3545.54,3.08
+That's relevant to thecommandeering analysis,3548.62,2.06
+in so far as inorder for this law,3550.68,2.71
+"to be a valid exercise ofCongress's preemption power,",3553.39,3.88
+it needs to be withinCongress's power.,3557.27,2.24
+And it's our argumentthat it is not,3559.51,2.07
+because it extends beyond that.,3561.58,2.1
+But this law is also aconstitutional violation,3563.68,3.33
+because it is not bestread as a law that,3567.01,2.31
+regulates private actors.,3569.32,1.23
+"That's the second partof the Murphy test,",3570.55,2.19
+that is merely a restatement ofthe proposition that Congress,3572.74,3.27
+cannot commandeer the states.,3576.01,1.99
+And because ICWA--,3578.0,1.02
+AMUL THAPAR: How are theycommandeering states?,3579.02,1.958
+With specific provisionscommandeered the states?,3580.978,2.082
+"KELSEY FRAZIER: Your Honor, ourchallenge is focused on 1911,",3583.06,3.06
+"1912, 1913, and 1915,which are essentially",3586.12,4.05
+the provisions that requirestates to implement ICWA.,3590.17,3.3
+So they're the provisionsthat require state executive,3593.47,2.25
+"officers, namely employees ofthe Child Protective Services",3595.72,2.67
+"division, to say takeactive efforts to prevent",3598.39,3.27
+the breakup of Indian families.,3601.66,1.768
+They're the provisionsthat change the procedures,3603.428,2.042
+that state courts have to followwhen adjudicating state law.,3605.47,3.068
+AMUL THAPAR: I'm notsure I follow why they,3608.538,1.792
+don't have the plenary power.,3610.33,2.49
+"Because they have plenarypower over Indian Affairs,",3612.82,2.31
+why wouldn't they beallowed to do this?,3615.13,2.34
+"In other words, they're notcommandeering in the same way",3617.47,3.18
+as Prince or Murphy.,3620.65,3.3
+"They're not doing anything tothe executive or legislature,",3623.95,2.9
+per se.,3626.85,1.42
+"KELSEY FRAZIER:Well, Your Honor,",3628.27,1.39
+we believe this is notwithin the Indian Affairs,3629.66,2.0
+power for two reasons.,3631.66,1.21
+One reason is thatthis regulates,3632.87,1.49
+"too broad a groupof individuals,",3634.36,1.53
+as we've just discussed.,3635.89,1.35
+The other reason isthat even if this,3637.24,1.68
+"were a law limited to thatgroup of individuals, that",3638.92,2.55
+"is, tribal members, theplenary power is not absolute",3641.47,3.938
+as this court has heldsince at least Creek,3645.408,1.792
+Nation and [INAUDIBLE].,3647.2,1.71
+"And most relevant, this courtheld in Seminole Tribe v",3648.91,3.21
+"Florida that theIndian Affairs power,",3652.12,3.0
+"even if understoodto be plenary,",3655.12,1.68
+is limited by the provisionsof the Constitution.,3656.8,2.4
+They are the relevant provisionwas the 11th Amendment.,3659.2,2.58
+The court held thatCongress did not,3661.78,1.86
+have the ability underthe Indian Affairs power,3663.64,2.64
+to abrogate state sovereignimmunity in violation,3666.28,2.37
+of the 11th Amendment.,3668.65,1.15
+"Here, theanti-commandeering doctrine",3669.8,2.3
+provides the limitation.,3672.1,1.57
+And so even if this isregulating the right group,3673.67,2.75
+of individualsbecause it requires,3676.42,2.16
+"the states to implementit, this is a violation",3678.58,3.3
+of the Constitution.,3681.88,2.188
+MERRICK GARLAND: Let'sseparate out the executive,3684.068,2.042
+from the courts for a moment.,3686.11,1.2
+"With respect to thecourts, doesn't it",3687.31,1.583
+just require the courtsto enforce federal law?,3688.893,2.63
+"KELSEY FRAZIER: Itdoes not, Your Honor,",3691.523,1.667
+at least not in a way thatthis court has upheld before.,3693.19,3.21
+This court hassaid that Congress,3696.4,1.86
+can issue some directionto the state courts.,3698.26,2.16
+"That is, Congress canrequire state courts",3700.42,2.49
+"to hear federalcauses of action,",3702.91,1.38
+at least when thestate courts would,3704.29,1.5
+hear them if thosesame causes of action,3705.79,1.667
+arose under state law.,3707.457,1.153
+That's the Testa line of cases.,3708.61,1.828
+And that's what the courtsin New York and Prince,3710.438,2.042
+are citing when theysuggest that there,3712.48,1.717
+might be an exception to theanti-commandeering doctrine,3714.197,2.333
+for courts.,3716.53,1.05
+But what ICWA does is different.,3717.58,2.42
+ICWA does not create afederal cause of action.,3720.0,2.27
+"Indeed, the text of ICWAitself says repeatedly",3722.27,2.87
+that these are proceedingsunder state law.,3725.14,2.25
+"Instead, ICWA ischanging the procedures",3727.39,2.1
+by which state judges--,3729.49,1.34
+MERRICK GARLAND: So if wethink of what's happening here,3730.83,4.6
+as conferring a right onthe child and the tribe,3735.43,5.27
+to not have the childremoved outside of the tribe.,3740.7,3.76
+And what Congress is sayingis that the state court,3744.46,6.3
+has to enforce that right.,3750.76,2.07
+You're saying that violatesanti-commandeering.,3752.83,3.132
+"KELSEY FRAZIER: Weare, Your Honor.",3755.962,1.458
+MERRICK GARLAND: So what ifCongress passed a statute that,3757.42,2.417
+said state courts cannotdiscriminate against,3759.837,2.713
+African-American children.,3762.55,3.69
+"And we're not givinga cause of action,",3766.24,2.07
+just saying theycan't discriminate.,3768.31,1.55
+"And if they do, thenthey're acting in violation",3769.86,3.82
+of the Supremacy Clause.,3773.68,2.07
+We're preempting anycontrary state statute.,3775.75,3.7
+Why is this any different?,3779.45,1.668
+"KELSEY FRAZIER: Well, YourHonor, because in that case,",3781.118,2.292
+"as you said, there is arelevant cost of action.",3783.41,2.18
+"Congress has provided asubstantive right, as you say,",3785.59,2.333
+that is not to be discriminatedagainst on the basis,3787.923,2.167
+of your race.,3790.09,1.17
+And then it has provided acause of action for someone,3791.26,2.46
+to seek enforcementof that right,3793.72,1.62
+if that right has been violated.,3795.34,1.648
+The relevant differencehere is that ICWA doesn't,3796.988,2.042
+provide the cause of action.,3799.03,1.35
+"And instead, it sits ontop of existing state law",3800.38,2.94
+"causes of action, andit tells state judges",3803.32,2.49
+how to decide those cases.,3805.81,1.395
+"MERRICK GARLAND: Well, becausewouldn't the other statute",3807.205,2.375
+tell state judges theycan't discriminate,3809.58,1.75
+in their decision makingagainst African-Americans?,3811.33,2.622
+That's what the statute says.,3813.952,1.208
+State judges maynot discriminate,3815.16,2.59
+in their decision makingagainst African-Americans.,3817.75,3.69
+"And if they do, thenjust as in this case,",3821.44,3.84
+"the intervener, thetribe, can object",3825.28,3.09
+that's what's happened here.,3828.37,1.99
+"KELSEY FRAZIER: Yes, Your Honor.",3830.36,2.6
+It's my understandingthough that that statute,3832.96,2.43
+would essentiallybe a restatement,3835.39,4.22
+of a constitutional principle.,3839.61,1.525
+And the procedures that arebeing followed in these cases,3841.135,2.375
+are otherwiseconstitutionally sufficient.,3843.51,2.293
+MERRICK GARLAND: Nowwe're slipping back,3845.803,1.667
+to the question of whetherthere's plenary power.,3847.47,3.52
+"For purposes of this hypo, we'llassume there's plenary power,",3850.99,3.29
+you offered that up.,3854.28,1.11
+"So if there isplenary power, now we",3855.39,2.16
+get to the next question.,3857.55,1.95
+And Congress has thepower to act with respect,3859.5,3.36
+"to this kind ofmember of a tribe,",3862.86,3.21
+or possible member of a tribe.,3866.07,3.57
+"Aren't those twoseparate questions,",3869.64,1.5
+whether Congress has the power?,3871.14,2.04
+I appreciate that in myexample maybe the power,3873.18,3.24
+comes from the 14th Amendment.,3876.42,3.56
+But if the power comesfrom the Indian Commerce,3879.98,3.76
+"Clause for purposes of thehypo, why is it any different?",3883.74,3.695
+"KELSEY FRAZIER:Well, Your Honor,",3887.435,1.375
+this court has treated statutespassed under the 14th Amendment,3888.81,3.21
+"differently from statutespassed under the, if you will,",3892.02,3.733
+original provisionsof the Constitution.,3895.753,1.667
+Because the 14th Amendmenthas been understood,3897.42,1.917
+"to change the federal statebalance and, in some cases,",3899.337,2.853
+to allow laws thatwould otherwise,3902.19,2.31
+be considered commandeering.,3904.5,1.763
+"The example, you provide,I believe is quite similar",3906.263,2.167
+"to the Multi-ethnicPlacement Act,",3908.43,2.04
+which is an act Congresspassed that said courts,3910.47,2.58
+should not consider a race of--,3913.05,2.28
+I believe it's theparents in that act,3915.33,1.74
+in adoption proceedings.,3917.07,1.41
+"But that's actually aconditional funding scheme,",3918.48,2.49
+which recognizes thatCongress apparently,3920.97,3.06
+thought it did not have thepower to pass that statute.,3924.03,2.552
+MICHELLE FRIEDLAND :But isn't ICWA also?,3926.582,1.708
+There is funding inthe Social Security Act,3928.29,3.06
+"that contingent on statesfollowing ICWA, isn't there?",3931.35,4.217
+"KELSEY FRAZIER: There is,Your Honor, in title 4B.",3935.567,2.083
+But ICWA is not aconditional funding scheme.,3937.65,2.04
+ICWA is a law that bindsthe states regardless of,3939.69,3.482
+whether or not they'rereceiving funding.,3943.172,1.708
+The Social Security Act providesadditional funding to states,3944.88,3.21
+if they comply with ICWA.,3948.09,1.8
+"But if states were toforgo that funding,",3949.89,1.98
+they're still bound byICWA's requirements.,3951.87,2.43
+MICHELLE FRIEDLAND : Butdid Ames forgo that funding?,3954.3,2.48
+"KELSEY FRAZIER:Your Honor, I don't",3956.78,0.97
+believe we have in therecord whether Ames,3957.75,1.75
+has forgone that funding.,3959.5,1.137
+But I don't believethe answer to that,3960.637,1.583
+question is dispositive here.,3962.22,2.25
+"Ames is still bound by ICWAand, as far as we know,",3964.47,3.28
+"has complied with ICWA, orat least try to comply with.",3967.75,2.45
+Certainly in this case they did.,3970.2,2.187
+The difference betweena conditional funding,3972.387,1.833
+"scheme and ICWA, alaw that's binding,",3974.22,3.45
+is that the statehas the choice not,3977.67,2.37
+to regulate in the waythe federal government has,3980.04,2.1
+asked it to regulate.,3982.14,1.32
+"That is, in a conditionalfunding scheme,",3983.46,1.8
+the state can chooseto regulate according,3985.26,2.49
+to the federalgovernment's preferences.,3987.75,1.83
+But it doesn't have to.,3989.58,1.35
+And that means that thestate remains politically,3990.93,2.13
+accountable to its citizens.,3993.06,1.74
+If the citizens don't likethat the state is or is not,3994.8,2.49
+"complying, they can seek toelect different officials who",3997.29,3.75
+will or will not comply.,4001.04,1.47
+They can't do that here.,4002.51,1.29
+Ames has no control over whetheror not it complies with ICWA.,4003.8,2.622
+MERRICK GARLAND:I'm still thinking,4006.422,1.458
+on this question of whyit matters that it's,4007.88,3.35
+"a federal cause of action, ascompared to a federal defense,",4011.23,4.78
+or a right that can beasserted by intervention.,4016.01,3.63
+So imagine that astate wants to hold--,4019.64,6.75
+not California.,4026.39,1.43
+If a state wants to hold automanufacturers to a higher,4027.82,3.73
+"standard than thefederal standard,",4031.55,3.51
+the federal standard preemptingthat higher standard.,4035.06,5.63
+"And then the state says,well, we don't care.",4040.69,2.42
+"You can't stop us, you didn'tcreate a cause of action.",4043.11,3.24
+We are going to prosecute thisauto manufacturer in this state,4046.35,5.97
+for not meeting thehigher standard.,4052.32,1.8
+"And at that point,not as a cause",4054.12,1.89
+"of action but as a defense,the manufacturer says,",4056.01,3.33
+"well, you can't do that.",4059.34,1.71
+Your statute is preempted.,4061.05,2.58
+"Only in that respect, you canhave all kinds of procedures",4063.63,4.26
+"you want about enforcingpollution controls,",4067.89,2.31
+but you can't have that one.,4070.2,2.47
+"First of all, do you thinkthat would be commandeering?",4072.67,2.645
+"KELSEY FRAZIER: I don't,Your Honor, assuming",4075.315,1.875
+that the federalgovernment properly had,4077.19,1.41
+the power to regulate there.,4078.6,1.32
+"MERRICK GARLAND:Right, so assume here",4079.92,1.02
+that the federalgovernment has that power.,4080.94,1.968
+Because I want to hone youin only on the commandeering,4082.908,2.292
+question.,4085.2,0.5
+Why is that different?,4085.7,0.917
+"KELSEY FRAZIER:Well, Your Honor,",4086.617,1.375
+it's my understandingthat in that case,4087.992,1.648
+the reason the federal statutegoverns and does not commandeer,4089.64,3.93
+is that there essentiallyis no state cause of action,4093.57,2.76
+because the federallaw has replaced it.,4096.33,2.683
+"And the federal law,which acts directly",4099.013,1.667
+"upon the automanufacturers presumably,",4100.68,2.88
+is not commandeering.,4103.56,1.049
+It's not tellingthe state courts,4104.609,1.201
+how to decide their cases.,4105.81,1.23
+"Instead, it's just sayingthe federal government",4107.04,2.43
+has determined that our lawsgoverning these actions.,4109.47,2.272
+And so there is nostate cause of action.,4111.742,1.708
+MERRICK GARLAND: Why isn'tthe federal government,4113.45,2.042
+replaced the normal preferencesof the state of Ames family,4115.492,3.518
+law?,4119.01,0.679
+It's just replaced them.,4119.689,1.109
+"KELSEY FRAZIER: Your Honor,the federal government here",4120.798,2.292
+is replacing the way thatthe state judges decide how,4123.09,4.65
+"to place children, certainly.",4127.74,1.77
+But the proceeding itselfis under state law.,4129.51,2.11
+"Again, ICWA itselftells us this.",4131.62,2.366
+The federal governmenthas not created,4133.986,1.583
+a federal cause of action.,4135.569,1.171
+"And indeed, itprobably could not",4136.74,1.69
+"because as we began ourdiscussion by saying,",4138.43,2.03
+family law is typically withinthe nearly exclusive province,4140.46,3.84
+of the states.,4144.3,1.349
+"This court hasrecognized a principle,",4145.649,2.491
+that the federal law takes thestate courts as it finds them.,4148.14,2.953
+AMUL THAPAR: So are you sayingthey can never get involved,4151.093,2.417
+with American Indian children?,4153.51,3.165
+"KELSEY FRAZIER: The federalgovernment, Your Honor?",4156.675,2.125
+"AMUL THAPAR: Yes, and any typeof preferences related to them.",4158.8,3.238
+KELSEY FRAZIER: YourHonor we believe,4162.038,1.542
+that the federal law couldask the states to apply,4163.58,2.97
+"these similarpreferences through,",4166.55,1.42
+"for example, a conditionalfunding scheme.",4167.97,1.953
+And we believe--,4169.923,0.667
+"AMUL THAPAR: But they can'tthrough their plenary power,",4170.59,1.689
+is your point.,4172.279,0.84
+"KELSEY FRAZIER: Theycould regulate, perhaps,",4173.119,3.001
+"family law throughtheir plenary powers,",4176.12,2.26
+though this court has neversaid that the Indian Affairs,4178.38,3.17
+"power extends, or thatthe Indian Commerce Clause",4181.55,2.7
+power extends to family law.,4184.25,1.93
+AMUL THAPAR: What if a state--,4186.18,1.25
+I'm sorry to interrupt you.,4187.43,1.125
+What if a state used exclusivelyprivate adoption services?,4188.555,4.5
+"KELSEY FRAZIER: Your Honor, thatwould be a much more difficult",4193.055,2.625
+"question, admittedly,because then we",4195.68,1.64
+would be asking essentiallya question about how,4197.32,3.31
+this law is best read.,4200.63,2.43
+"First of all, that'snot the situation here.",4203.06,2.91
+Adoption is typicallydone by the states.,4205.97,1.95
+"But under this hypothetical,it might be the case",4207.92,3.48
+that a law could be best read asregulating private actors if we,4211.4,3.99
+knew that a significantpercentage of adoptions,4215.39,2.61
+were performed by privateactors in the states.,4218.0,2.2
+We might also lookat the activity,4220.2,1.61
+itself and ask whether that'ssomething that the states have,4221.81,2.67
+traditionally done.,4224.48,1.29
+"Indeed, that was alittle bit closer",4225.77,1.5
+"to the inquiry in theReno and Baker cases,",4227.27,2.31
+the cases that found the lawsto be generally applicable.,4229.58,4.05
+Those cases were concerned notso much with the percentage,4233.63,2.7
+"breakdown of who wasperforming activities,",4236.33,2.79
+but with what the activitywas and how the states were,4239.12,2.43
+being regulated.,4241.55,0.84
+"So in the Reno case forexample, the government",4242.39,2.52
+upheld this lawgoverning how states,4244.91,3.27
+treat private informationcollected from drivers.,4248.18,3.81
+Because it was alaw that regulated,4251.99,1.86
+states acting essentiallylike private entities.,4253.85,2.76
+And specificallybecause it was not,4256.61,3.9
+"a law that regulated how statesregulate private individuals,",4260.51,3.69
+or that it requiredstates to implement,4264.2,1.98
+a federal regulatory program.,4266.18,2.31
+ICWA is all about how statesregulate private individuals.,4268.49,2.417
+MICHELLE FRIEDLAND : I'd liketo go back to your answer.,4270.907,2.333
+I think you saidthis could be done,4273.24,1.79
+through conditionalspending legislation.,4275.03,2.05
+"But I'm confused, wouldn'tyou say there'd still",4277.08,2.0
+be an equal protection problem?,4279.08,1.32
+"AL KELLEY: We would, Your Honor.",4280.4,0.72
+"I amend my statement,that was just",4281.12,1.59
+with regard to theanti-commandeering concern.,4282.71,2.76
+We believe that theanti-commandeering concern,4285.47,1.932
+would be remedied if thiswere a conditional spending,4287.402,2.208
+"program, again, because then thestate maintains the decision of",4289.61,3.18
+whether or not itwishes to comply,4292.79,1.98
+and thus remainremains politically,4294.77,1.65
+accountable to its citizens.,4296.42,1.497
+"MICHELLE FRIEDLAND : So sorry,going back to this hypothetical",4297.917,2.583
+where a state has justprivate adoption agencies.,4300.5,2.765
+KELSEY FRAZIER: Yes.,4303.265,0.942
+MICHELLE FRIEDLAND : Ihave trouble seeing how you,4304.207,2.083
+have a commandeering problem.,4306.29,1.208
+I know you'll say somethingabout maybe the state courts,4307.498,2.555
+that the adoption agencieswould need to go through.,4310.053,2.167
+But I have troubleseeing how there,4312.22,1.963
+aren't all kinds of federal lawsthat state courts have to apply,4314.183,2.667
+and that have that--,4316.85,1.05
+it's a much harderpart of your argument.,4317.9,1.77
+"KELSEY FRAZIER: YourHonor, that certainly",4319.67,1.41
+would be a much harder case ifprivate adoption agencies were,4321.08,2.7
+doing all of the work.,4323.78,2.035
+The only way that would looklike a commandeering problem,4325.815,2.375
+"is if we think about theactivity being regulated,",4328.19,2.19
+and whether that'ssomething that is typically,4330.38,2.13
+"left to the states,and the states",4332.51,1.417
+are choosing toessentially contract out.,4333.927,2.033
+But that raises questionsabout state delegation,4335.96,2.37
+to private entities thataren't at issue here.,4338.33,2.79
+"Here, states are primarilyperforming the functions",4341.12,2.7
+that ICWA regulates.,4343.82,1.29
+"That is true of adoption,but many of the functions",4345.11,2.43
+that ICWA regulates are actuallythings only states can perform.,4347.54,3.45
+"For example, all of thestate court proceedings.",4350.99,2.43
+None of that could bedone by private actor.,4353.42,2.53
+And even some of the provisionsthat impose obligations,4355.95,3.41
+on the state executiveagencies appear,4359.36,2.437
+that they might be right toapply to private actors too.,4361.797,2.333
+But really applyprimarily to state actors.,4364.13,3.03
+"For example, 1912D, which is theactive efforts provision, which",4367.16,4.32
+is one that is mostcommandeering insofar as it,4371.48,2.64
+requires child protectiveservices officers,4374.12,3.0
+"to take active efforts, whichare affirmative efforts to--",4377.12,2.712
+MICHELLE FRIEDLAND : Thatprovision wasn't implicated,4379.832,2.208
+"in this case at all, was it?",4382.04,1.633
+I'm a little unclear how youcan challenge that provision.,4383.673,2.417
+KELSEY FRAZIER: It wasn'timplicated in this case,4386.09,2.55
+"under the facts of this case,but it should have been.",4388.64,2.76
+Because CJ Is an Indianchild within the definition,4391.4,3.45
+"of ICWA and CJ was removedfrom his biological mother,",4394.85,4.14
+AW's home.,4398.99,1.02
+"Now, because thestate did not know",4400.01,1.83
+"that CJ was an Indianchild, it did not have",4401.84,2.46
+it did not comply with 1912D.,4404.3,2.46
+"But had it known,the state would",4406.76,1.53
+"have had to take active efforts,those are affirmative actions,",4408.29,3.27
+to prevent thebreakup of the family,4411.56,2.16
+before it could removeCJ from his home.,4413.72,3.87
+"Again, it didn't hearbecause it wasn't aware,",4417.59,2.31
+which simply highlights thatthis provision is applying even,4419.9,3.12
+"to children who do not havean existing tribal connection,",4423.02,3.748
+"and who are not eligiblemembers, or the children",4426.768,2.042
+of eligible members.,4428.81,1.352
+For the foregoingreasons we respectfully,4430.162,1.708
+request this court affirm.,4431.87,1.986
+[APPLAUSE],4433.856,1.992
+"AL KELLEY: Mr. Chief Justice,a few brief points in response.",4447.32,3.18
+"First, on the EqualProtection issue,",4450.5,1.92
+respondents proposed heretoday several limitations,4452.42,2.94
+that this court should place onthe application of the Mancari,4455.36,3.27
+Rational Relationship Test.,4458.63,1.5
+But none of theselimitations follow,4460.13,2.16
+from this court'sopinion in Mancari,4462.29,1.8
+or any of its subsequentapplications of that test.,4464.09,3.21
+"First, respondentsargued that there",4467.3,3.09
+should be a limitation basedon whether a statute deals,4470.39,2.7
+with tribal self-government.,4473.09,1.53
+"But as this court madeclear in Antelope,",4474.62,2.52
+tribal self-governmentis only one way,4477.14,2.01
+for a statute to be rationallytied to Congress's fulfillment,4479.15,3.96
+of its trust obligations.,4483.11,1.44
+And subsequent cases like theWashington commercial passenger,4484.55,3.42
+fishing vessel caseonly dealt with statutes,4487.97,3.63
+"that had, if any connectionto tribal self-government,",4491.6,2.4
+a very tenuous one there.,4494.0,1.2
+It was a grant offishing rights.,4495.2,1.99
+And so this isn't a limitationthat this court has recognized,4497.19,3.59
+previously on the Mancari Test.,4500.78,1.78
+"But even if it was,ICWA satisfies this test",4502.56,3.77
+because it clearly servestribal self-government,4506.33,2.52
+by giving tribes the rightto intervene in proceedings,4508.85,2.55
+and by indeedensuring that tribes,4511.4,1.71
+have the membership to continueas self-governing entities.,4513.11,4.05
+And respondents also argued thatMancari should be limited only,4517.16,3.21
+to enrolled members.,4520.37,0.96
+MERRICK GARLAND: Can I ask howsending an Indian child who,4521.33,5.73
+is eligible for onetribe to another tribe,4527.06,3.24
+across the country maintainstribal self-government,4530.3,3.535
+with the first tribe?,4533.835,2.087
+"AL KELLEY: Well, YourHonor, it maintains",4535.922,1.708
+tribal self-governmentbecause it,4537.63,1.5
+ensures that those childrengrow up in Indian culture,4539.13,3.36
+and therefore are more likelyto form a political relationship,4542.49,4.11
+"with their tribe, theirown tribe later on,",4546.6,2.76
+having grown upin a society that,4549.36,1.83
+has respect for thatkind of political bond.,4551.19,2.85
+"Now, turning to theanti-commandeering issue,",4554.04,2.88
+respondents argue that ICWAcommandeers state courts.,4556.92,3.78
+But requiring state judgesto apply different burdens,4560.7,3.39
+and standards hasnever been understood,4564.09,1.89
+to implicate theanti-commandeering doctrine.,4565.98,1.94
+It's a straightforwardapplication,4567.92,1.65
+of the supremacy clause.,4569.57,1.0
+AMUL THAPAR: What about theactive efforts provision?,4570.57,2.208
+That's the one theymainly object to.,4572.778,1.862
+AL KELLEY: So theactive efforts provision,4574.64,1.75
+is of general application.,4576.39,1.62
+Section 1912Dapplies to any party,4578.01,3.39
+who seeks to affect the fosterplacement of an Indian child,4581.4,3.19
+or a removal of thatchild from their parents.,4584.59,3.5
+And thus it's close to what thiscourt faced in Reno v Condon.,4588.09,3.86
+And it similarly is a grantof a right to those children,4591.95,3.55
+to only be removed from theirhomes and to the parents,4595.5,2.58
+to only have theirchildren removed when,4598.08,2.58
+active efforts have been made.,4600.66,1.47
+So it's a condition and alimitation on state action,4602.13,3.33
+rather than anaffirmative order.,4605.46,1.45
+It only comes into play whenthe state decides to remove,4606.91,3.29
+a child from their home.,4610.2,1.33
+So what respondentsare asking for here,4611.53,1.97
+is not an application of theanti-commandeering doctrine,4613.5,2.73
+but an extension of it farbeyond what this court has,4616.23,3.0
+recognized in its past cases.,4619.23,2.19
+"For those reasons we ask thatthis court reverse, thank you.",4621.42,3.416
+[APPLAUSE],4624.836,2.39
+"MERRICK GARLAND:No surprise, we'll",4636.83,1.48
+be taking this matterunder submission.,4638.31,2.61
+And if you'll give us recess.,4640.92,1.95
+SPEAKER 1: All rise.,4642.87,0.84
+[APPLAUSE],4666.572,1.988
+Round of applause.,4668.56,0.994
+All rise.,4680.52,0.63
+Please be seated.,4701.5,2.712
+MERRICK GARLAND:And come to order.,4704.212,1.458
+"OK, in the matter of theAmes Moot Court final round,",4710.67,3.945
+the decision of thejudges is as follows.,4714.615,3.655
+"Best briefs, the petitioners.",4718.27,3.09
+You can applaud.,4721.36,1.92
+[APPLAUSE],4723.28,1.92
+"Best oralist, respondentKelsey Frazier.",4732.41,4.323
+[APPLAUSE],4736.733,2.455
+"Best team, respondents.",4747.044,3.306
+[APPLAUSE],4750.35,2.475
+"Now, does the Dean wantus to do something else?",4772.59,2.0
+"You don't know, OK.",4778.19,0.84
+SPEAKER 1: You know what to do.,4779.03,1.305
+"MERRICK GARLAND: Well,there was some reference",4780.335,1.958
+to a brief discussionabout oral argument.,4782.293,3.577
+Is that correct?,4785.87,1.46
+"Oh, you have something to say.",4787.33,3.165
+MICHELLE FRIEDLAND: So should we,4790.495,1.657
+not make comments about them?,4792.152,1.208
+"SPEAKER 1: So yeah, makesome brief comments here",4793.36,1.26
+to the oralists.,4794.62,0.76
+And then we willrecess here and then,4795.38,1.61
+do private commentary later.,4796.99,1.572
+"MICHELLE FRIEDLAND : OK,so I thought all of you",4798.562,7.788
+were tremendously excellent.,4806.35,3.09
+I wish that I had advocateslike you in court all the time.,4809.44,3.78
+"I occasionally have peoplealmost as good as you guys,",4813.22,2.67
+but not usually.,4815.89,1.36
+And it was really wonderfulto watch all of you,4817.25,3.38
+and to be able to be hereand to be a part of this.,4820.63,2.89
+You did extraordinarily well.,4823.52,2.43
+I think you all had theidea that you were really,4825.95,2.78
+"answering questions,you were really",4828.73,1.5
+listening to our questions.,4830.23,1.17
+You stayed very calm.,4831.4,2.38
+You were really just excellent.,4833.78,2.88
+Should we save individualremarks for later?,4836.66,2.9
+OK.,4839.56,0.96
+"I will make a pitch though,since I have this opportunity",4840.52,3.063
+"to tell you that, in theNinth Circuit, if you",4843.583,1.917
+take up a pro bono case you areguaranteed an oral argument.,4845.5,3.665
+I hope that I willsee all of you,4849.165,1.375
+in my court in the near future.,4850.54,3.63
+"AMUL THAPAR: We try to dothe same in the Sixth, so.",4854.17,3.083
+"MERRICK GARLAND: Allright, we'll do the same.",4857.253,1.917
+"But only to the people in thisroom, don't tell anybody else.",4861.97,4.98
+AMUL THAPAR: That'sa pro-Harvard bias.,4866.95,4.33
+MERRICK GARLAND: Good point.,4871.28,2.11
+"Yeah, it requiresstrict scrutiny, though.",4873.39,2.15
+There's compelling interest.,4875.54,2.75
+I second everything thatJudge Friedland said.,4878.29,2.91
+"I thought this wasreally terrific,",4881.2,1.62
+both the briefs and the oralarguments were quite amazing,4882.82,3.05
+and up to the highestprofessional standards,4885.87,2.41
+that we see.,4888.28,1.47
+"And I'll just say,just a tiny addition",4889.75,3.57
+to what Judge Friedlandsaid about the nature,4893.32,3.93
+of the discussion.,4897.25,0.93
+"So for me, the thingabout oral argument",4898.18,3.36
+is it should be adiscussion with the judge.,4901.54,3.3
+"It should not be, I'vegot these 25 points",4904.84,3.93
+"and I have to get them--get through them, regardless",4908.77,2.55
+of whether those are thequestions the judges are asking,4911.32,3.42
+or not.,4914.74,0.92
+And all of you didthis extremely well.,4915.66,1.9
+"That is, when weasked a question,",4917.56,1.47
+you diverged fromwhatever else you thought,4919.03,1.98
+your business was going to be.,4921.01,2.14
+And you answered the question.,4923.15,2.18
+And then we could move on.,4925.33,3.52
+Questions are not to be feared.,4931.51,3.54
+The whole point inoral argument is,4935.05,1.86
+you want to know what isbothering the judge so you,4936.91,2.94
+can fix that problem.,4939.85,3.61
+"We gave you the Supreme Court'snew innovation a little bit,",4943.46,4.14
+"which is that you get acouple of minutes, two",4947.6,2.21
+minutes at the very beginning.,4949.81,2.37
+But very few courts give youthat two minutes anymore.,4952.18,2.82
+And I'll be very surprisedif the Supreme Court doesn't,4955.0,3.9
+deteriorate with respectto those two minutes,4958.9,2.19
+and people start askingquestions before.,4961.09,3.25
+"And you should want that,you should want to know--",4964.34,3.44
+"not from court purposes,but from the point of view",4967.78,3.15
+"of being an advocate, you wantto know, what is your weakness,",4970.93,2.67
+and can I explain it?,4973.6,2.13
+"And you all did that,I thought it was great.",4975.73,1.88
+"AMUL THAPAR: Yeah, Ithought it was exceptional.",4977.61,2.0
+I agree with everythingthey both said.,4979.61,1.625
+"The one thing I'll say forpeople that have never done it,",4981.235,2.565
+"it's incrediblyhard to stand there,",4983.8,3.12
+I think almostuniversally without notes,4986.92,2.04
+or without looking down.,4988.96,1.14
+"Look us in the eye,answer the questions.",4990.1,2.31
+"We'll come up with questionsthat are sometimes crazy,",4992.41,3.24
+"or try to throw you off orturn you a different way,",4995.65,3.87
+and all four of you did anexceptional job of just staying,4999.52,3.84
+"the course, answering thequestions, making sure you",5003.36,3.33
+answered the question.,5006.69,1.23
+"And then weavingit, like, seamlessly",5007.92,3.81
+back into your argument.,5011.73,1.05
+"Right into the case law,right into everything.",5012.78,2.285
+Even if we askedyou a completely,5015.065,1.375
+"off the wall question, you'dmake it sound reasonable",5016.44,2.79
+"and weave it rightback in, which",5019.23,1.89
+"is really a masterfulskill, and something",5021.12,3.48
+I commend you all for.,5024.6,0.975
+And I hope you will cometo the Sixth Circuit,5025.575,1.875
+"first, because it's closer.",5027.45,1.125
+SPEAKER 1: And if we couldgive one more round of applause,5030.973,2.417
+for our competitorsand our judges.,5033.39,2.926
+[APPLAUSE],5036.316,2.46
+If everyone would rise.,5049.61,2.5

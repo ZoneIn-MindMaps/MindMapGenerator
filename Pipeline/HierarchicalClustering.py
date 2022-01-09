@@ -3,7 +3,7 @@ import numpy as np
 
 def HierarchicalClusters(listofVectors):
     X = np.array(listofVectors)
-    clustering = AgglomerativeClustering().fit(X)
+    clustering = AgglomerativeClustering(n_clusters = None, distance_threshold = 2).fit(X)
     return clustering.labels_
 
 if __name__ == '__main__':

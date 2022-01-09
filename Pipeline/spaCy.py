@@ -20,4 +20,4 @@ if __name__ == '__main__':
         "The quick brown fox jumps over the lazy dog",
         "The five boxing wizards jump quickly"
     ]
-    print(Generate_spaCy_KeyPhrases(list_of_sentences, 5))
+    print(Generate_spaCy_KeyPhrases(list_of_sentences, 1))
