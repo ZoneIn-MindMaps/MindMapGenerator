@@ -3,6 +3,7 @@ import pandas as pd
 import nltk
 import matplotlib.pyplot as plt
 import yake
+import sent2vec
 from WordCloud import show_wordcloud
 from makeMindMap import makeGraph
 from dbscan import DBSCANClusters
@@ -81,11 +82,12 @@ class Pipeline:
                 ls.append(model.encode(i))
             return ls
         elif (self.WordEmbeddingName == "Universal Sentence Encoder"):
-            model = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
-            ls = []
-            for i in list_of_sentences:
-                ls.append(model.predict(i))
-            return ls
+            embed = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
+            embeddings = embed(list_of_sentences)
+            return embeddings
+        elif (self.WordEmbeddingName == "Sent2Vec"):
+            model = sent2vec.Sent2vecModel()
+            
     def WordClustering(self, WordEmbeddingList, n_clusters):
         if (self.ClusteringAlgorithmName == "KMeans"):
             return KMeansClustering.kmeans(WordEmbeddingList, n_clusters)
@@ -133,9 +135,16 @@ if __name__ == '__main__':
             clubbed_sentence.append(s)
             s = ""
             count = 0
-    pipeline = Pipeline("spaCy", "all-MiniLM-L6-v2", "KMeans")
+    pipeline = Pipeline("spaCy", "Universal Sentence Encoder", "KMeans")
     KeyPhraseList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 3, None, 5)
     WordEmbeddingList = pipeline.WordEmbeddingGenerator(KeyPhraseList, False)
+    """
+    Do PCA on WordEmbeddingList
+    """
+    # pca = PCA(n_components=10)
+    # pca.fit(WordEmbeddingList)
+    # WordEmbeddingList = pca.transform(WordEmbeddingList)
+
     TopicList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 1, None, 1)
     cluster_count = 4
     cluster_position, cluster_labels = pipeline.WordClustering(WordEmbeddingList, cluster_count)

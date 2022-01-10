@@ -86,7 +86,7 @@ def main(input):
             s = ""
             count = 0
     pipeline = Pipeline("spaCy", "all-MiniLM-L6-v2", "KMeans")
-    KeyPhraseList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 3, None, 5)
+    KeyPhraseList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 3, None, 10)
     WordEmbeddingList = pipeline.WordEmbeddingGenerator(KeyPhraseList, False)
     TopicList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 1, None, 1)
     cluster_count = 4
