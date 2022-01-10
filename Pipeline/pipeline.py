@@ -3,6 +3,7 @@ import pandas as pd
 import nltk
 import matplotlib.pyplot as plt
 import yake
+from WordCloud import show_wordcloud
 from makeMindMap import makeGraph
 from dbscan import DBSCANClusters
 import tensorflow_hub as hub
@@ -110,10 +111,6 @@ if __name__ == '__main__':
         else:
             list_of_non_stop_word_sentences.append(text)
             list_of_non_stop_word_endtimes.append(list_of_endtimes[i])
-    # print(list_of_non_stop_word_sentences)
-    # print(list_of_non_stop_word_endtimes)
-
-    # Clubbing Time
     list_of_non_stop_word_endtimes_clubbed = []
     count = 0
     club_times = 10
@@ -123,7 +120,6 @@ if __name__ == '__main__':
         if (count == club_times):
             list_of_non_stop_word_endtimes_clubbed.append(list_of_non_stop_word_endtimes[i])
             count = 0
-    #Clubbing Sentences
     count = 0
     clubbed_sentence = []
     s = ""
@@ -141,11 +137,16 @@ if __name__ == '__main__':
     KeyPhraseList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 3, None, 5)
     WordEmbeddingList = pipeline.WordEmbeddingGenerator(KeyPhraseList, False)
     TopicList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 1, None, 1)
-    cluster_position, cluster_labels = pipeline.WordClustering(WordEmbeddingList, 4)
-    print(cluster_labels)
-    print("list_of_non_stop_word_endtimes_clubbed")
+    cluster_count = 4
+    cluster_position, cluster_labels = pipeline.WordClustering(WordEmbeddingList, cluster_count)
+    ls_cluster_wise_key_words = [[] for i in range(cluster_count)]
+    for i in range(len(cluster_labels)):
+        x = cluster_labels[i]
+        ls_cluster_wise_key_words[x].append(clubbed_sentence[i])
+    print(ls_cluster_wise_key_words)
+    print(ls_cluster_wise_key_words)
     for i in range(len(list_of_non_stop_word_endtimes_clubbed)):
         list_of_non_stop_word_endtimes_clubbed[i] = time_format(int(list_of_non_stop_word_endtimes_clubbed[i]))
-    print(list_of_non_stop_word_endtimes_clubbed)
-    print (len(KeyPhraseList), len(WordEmbeddingList), len(TopicList), len(cluster_labels), len(list_of_non_stop_word_endtimes_clubbed))
     makeGraph(cluster_labels, list_of_non_stop_word_endtimes_clubbed)
+    for index, word_list in enumerate(ls_cluster_wise_key_words):
+        show_wordcloud(word_list, index)
