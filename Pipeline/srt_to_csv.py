@@ -9,7 +9,7 @@ def srtParser(path):
     with open(path, 'r') as f:
         x = f.readlines()
     f.close()
-    re_pattern = r'[0-9]{2}:[0-9]{2}:[0-9]{2},[0-9].* -->'
+    re_pattern = r'[0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3} -->'
     regex = re.compile(re_pattern)
     times = list(filter(regex.search, x))
     end_times = [time.split(' ')[-1][:-1] for time in times]

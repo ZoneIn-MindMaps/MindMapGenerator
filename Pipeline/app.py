@@ -178,7 +178,7 @@ API Which Takes String and Int Input
 """
 @app.route('/<int:input>/<string:input2>', methods=['GET'])
 def main_string_int(input, input2):
-    srtParser("/home/zoners/ZoneIn-Organisation/uploads/test_subtitle/{input2}.srt")
+    srtParser(f"/home/zoners/ZoneIn-Organisation/uploads/test_subtitle/{input2}.srt")
     print(input, input2)
     df = pd.read_csv("/home/zoners/MindMapGenerator/Pipeline/transcript.csv")
     list_of_sentences = df['Text'].values.tolist()
