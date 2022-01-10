@@ -12,7 +12,7 @@ from transformers import AutoModel
 import seaborn as sns
 from rake_nltk import Rake
 from sklearn.decomposition import PCA
-nltk.download('stopwords')
+# nltk.download('stopwords')
 from nltk.corpus import stopwords
 from collections import Counter
 stop_words = stopwords.words('english')
