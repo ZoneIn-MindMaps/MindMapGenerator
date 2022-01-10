@@ -6,8 +6,7 @@ def show_wordcloud(data, title):
     text = " ".join(data)
     stopwords = set(STOPWORDS)
     wordcloud = WordCloud(
-        mode = "RGBA",
-        background_color=None,
+        background_color='white',
         stopwords=stopwords,
         height = 400,
         width = 800,

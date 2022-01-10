@@ -6,6 +6,7 @@ import nltk
 import matplotlib.pyplot as plt
 from WordCloud import show_wordcloud
 from makeMindMap import makeGraph
+from srt_to_csv import srtParser
 import seaborn as sns
 # nltk.download('stopwords')
 from nltk.corpus import stopwords
@@ -93,7 +94,7 @@ def main(input):
     ls_cluster_wise_key_words = [[] for i in range(cluster_count)]
     for i in range(len(cluster_labels)):
         x = cluster_labels[i]
-        ls_cluster_wise_key_words[x].append(clubbed_sentence[i])
+        ls_cluster_wise_key_words[x].append(KeyPhraseList[i])
     # print(ls_cluster_wise_key_words)
     # print(ls_cluster_wise_key_words)
     for i in range(len(list_of_non_stop_word_endtimes_clubbed)):
@@ -171,6 +172,70 @@ def main(input):
 #     for index, word_list in enumerate(ls_cluster_wise_key_words):
 #         show_wordcloud(word_list, index)
 #     return "hello2"
+
+"""
+API Which Takes String and Int Input
+"""
+@app.route('/<int:input>/<string:input2>', methods=['GET'])
+def main_string_int(input, input2):
+    srtParser("/home/zoners/ZoneIn-Organisation/uploads/test_subtitle/{input2}.srt")
+    print(input, input2)
+    df = pd.read_csv("/home/zoners/MindMapGenerator/Pipeline/transcript.csv")
+    list_of_sentences = df['Text'].values.tolist()
+    list_of_starttimes = df['Start Time'].values.tolist()
+    list_of_duration = df['Duration'].values.tolist()
+    list_of_endtimes = [sum(i) for i in zip(list_of_starttimes,list_of_duration)]
+    list_of_non_stop_word_sentences = []
+    list_of_non_stop_word_endtimes = []
+    for i in range(len(list_of_sentences)):
+        list_of_sentences[i] = list_of_sentences[i].lower()
+    for i in range(len(list_of_sentences)):
+        text = ' '.join([word for word in list_of_sentences[i].split() if word not in stopwords_dict])
+        if (text == ""):
+            continue
+        else:
+            list_of_non_stop_word_sentences.append(text)
+            list_of_non_stop_word_endtimes.append(list_of_endtimes[i])
+    list_of_non_stop_word_endtimes_clubbed = []
+    count = 0
+    club_times = 10
+    for i in range(len(list_of_non_stop_word_endtimes)):
+        if (count < club_times):
+            count+=1
+        if (count == club_times):
+            list_of_non_stop_word_endtimes_clubbed.append(list_of_non_stop_word_endtimes[i])
+            count = 0
+    count = 0
+    clubbed_sentence = []
+    s = ""
+    club_sentences = 10
+    for i in range(len(list_of_sentences)):
+        if (count < club_sentences):
+            s += list_of_sentences[i]
+            s += " "
+            count+=1
+        if (count == club_sentences):
+            clubbed_sentence.append(s)
+            s = ""
+            count = 0
+    pipeline = Pipeline("spaCy", "all-MiniLM-L6-v2", "KMeans")
+    KeyPhraseList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 3, None, 5)
+    WordEmbeddingList = pipeline.WordEmbeddingGenerator(KeyPhraseList, False)
+    TopicList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 1, None, 1)
+    cluster_count = 4
+    cluster_position, cluster_labels = pipeline.WordClustering(WordEmbeddingList, cluster_count)
+    ls_cluster_wise_key_words = [[] for i in range(cluster_count)]
+    for i in range(len(cluster_labels)):
+        x = cluster_labels[i]
+        ls_cluster_wise_key_words[x].append(KeyPhraseList[i])
+    # print(ls_cluster_wise_key_words)
+    # print(ls_cluster_wise_key_words)
+    for i in range(len(list_of_non_stop_word_endtimes_clubbed)):
+        list_of_non_stop_word_endtimes_clubbed[i] = time_format(int(list_of_non_stop_word_endtimes_clubbed[i]))
+    makeGraph(cluster_labels, list_of_non_stop_word_endtimes_clubbed)
+    for index, word_list in enumerate(ls_cluster_wise_key_words):
+        show_wordcloud(word_list, index)
+    return "Done Call V2"
 
 if __name__ == '__main__':
     app.run(debug=True)

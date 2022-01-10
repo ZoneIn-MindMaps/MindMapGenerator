@@ -46,7 +46,7 @@ def makeGraph(labels, timestamps):
     straight_edge_labels = {edge: edge_weights[edge] for edge in straight_edges}
     my_nx.my_draw_networkx_edge_labels(G, pos, ax=ax, edge_labels=curved_edge_labels,rotate=False,rad = arc_rad)
     nx.draw_networkx_edge_labels(G, pos, ax=ax, edge_labels=straight_edge_labels,rotate=False)
-    fig.savefig("/home/zoners/ZoneIn-Organisation/zonein/public/images/mindmap.png", bbox_inches='tight', pad_inches=0, transparent=True)
+    fig.savefig("/home/zoners/ZoneIn-Organisation/zonein/public/images/mindmap.png", bbox_inches='tight', pad_inches=0)
     # toReturn = {}
     # print
     return tuple(temp)
