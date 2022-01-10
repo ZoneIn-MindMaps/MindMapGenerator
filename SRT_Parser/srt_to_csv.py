@@ -30,11 +30,15 @@ def srtParser(path):
     subs = {start_time:line[0][:-1] for start_time,line in zip(start_times, lines)}
 
     for i in range(len(lines)):
+        start_time_sec = 0.0
         start_time = dt.datetime.strptime(start_times[i], format)
         end_time = dt.datetime.strptime(end_times[i], format)
         diff = end_time - start_time
         diffSec = diff.total_seconds()
-        ls.append([lines[i][0][:-1], start_times[i], diffSec])
+        tmp = str(start_time).split(" ")[1]
+        tmp = tmp.split(":")
+        start_time_sec += 3600*float(tmp[0]) + 60*float(tmp[1]) + float(tmp[2])
+        ls.append([lines[i][0][:-1], start_time_sec, diffSec])
     
     df = pd.DataFrame(ls)
     df.columns = ['Text', 'Start Time', 'Duration']
