@@ -3,6 +3,7 @@ import pandas as pd
 import nltk
 import matplotlib.pyplot as plt
 import yake
+from makeMindMap import makeGraph
 from dbscan import DBSCANClusters
 import tensorflow_hub as hub
 from sklearn.preprocessing import StandardScaler
@@ -17,6 +18,24 @@ stop_words = stopwords.words('english')
 stopwords_dict = Counter(stop_words)
 # from WordVectorGenerators import SentenceTransformerEmbeddings
 # from ClusteringAlgorithms import KMeansClustering
+
+def time_format(seconds: int):
+    if seconds is not None:
+        seconds = int(seconds)
+        d = seconds // (3600 * 24)
+        h = seconds // 3600 % 24
+        m = seconds % 3600 // 60
+        s = seconds % 3600 % 60
+        if d > 0:
+            return '{:02d}:{:02d}:{:02d}:{:02d}'.format(d, h, m, s)
+        elif h > 0:
+            return '{:02d}:{:02d}:{:02d}'.format(h, m, s)
+        elif m > 0:
+            return '{:02d}:{:02d}'.format(m, s)
+        elif s > 0:
+            return '00:{:02d}'.format(s)
+    return '-'
+
 class Pipeline:
     def __init__(self, KeyPhraseExtractor, WordEmbeddingName, ClusteringAlgorithmName):
         self.KeyPhraseExtractor = KeyPhraseExtractor
@@ -118,16 +137,15 @@ if __name__ == '__main__':
             clubbed_sentence.append(s)
             s = ""
             count = 0
-    print(clubbed_sentence)
     pipeline = Pipeline("spaCy", "all-MiniLM-L6-v2", "KMeans")
     KeyPhraseList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 3, None, 5)
-    print(KeyPhraseList)
     WordEmbeddingList = pipeline.WordEmbeddingGenerator(KeyPhraseList, False)
-    print(WordEmbeddingList)
     TopicList = pipeline.KeyPhraseExtraction(clubbed_sentence, None, 1, None, 1)
-    print(TopicList)
-    clusters = pipeline.WordClustering(WordEmbeddingList, 4)
-    print(clusters)
+    cluster_position, cluster_labels = pipeline.WordClustering(WordEmbeddingList, 4)
+    print(cluster_labels)
     print("list_of_non_stop_word_endtimes_clubbed")
+    for i in range(len(list_of_non_stop_word_endtimes_clubbed)):
+        list_of_non_stop_word_endtimes_clubbed[i] = time_format(int(list_of_non_stop_word_endtimes_clubbed[i]))
     print(list_of_non_stop_word_endtimes_clubbed)
-    print (len(KeyPhraseList), len(WordEmbeddingList), len(TopicList), len(clusters), len(list_of_non_stop_word_endtimes_clubbed))
+    print (len(KeyPhraseList), len(WordEmbeddingList), len(TopicList), len(cluster_labels), len(list_of_non_stop_word_endtimes_clubbed))
+    makeGraph(cluster_labels, list_of_non_stop_word_endtimes_clubbed)
